@@ -1,0 +1,7 @@
+digraph G
+{
+  edge [fontname="FreeSans.ttf",fontsize="10",labelfontname="FreeSans.ttf",labelfontsize="10"];
+  node [fontname="FreeSans.ttf",fontsize="10",shape=record];
+  rankdir=LR;
+  Node1 [label="cl::string",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classcl_1_1string.html",tooltip="Simple string class, that provides a limited subset of std::string functionality but avoids many of t..."];
+}

@@ -1,0 +1,9 @@
+digraph G
+{
+  edge [fontname="FreeSans.ttf",fontsize="10",labelfontname="FreeSans.ttf",labelfontsize="10"];
+  node [fontname="FreeSans.ttf",fontsize="10",shape=record];
+  rankdir=LR;
+  Node1 [label="cl::detail::Wrapper\< cl_command_queue \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classcl_1_1detail_1_1_wrapper.html"];
+  Node1 -> Node2 [dir=back,color="midnightblue",fontsize="10",style="solid",fontname="FreeSans.ttf"];
+  Node2 [label="cl::CommandQueue",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classcl_1_1_command_queue.html",tooltip="CommandQueue interface for cl_command_queue."];
+}

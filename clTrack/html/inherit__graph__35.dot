@@ -1,0 +1,7 @@
+digraph G
+{
+  edge [fontname="FreeSans.ttf",fontsize="10",labelfontname="FreeSans.ttf",labelfontsize="10"];
+  node [fontname="FreeSans.ttf",fontsize="10",shape=record];
+  rankdir=LR;
+  Node1 [label="cl::vector\< T, N \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classcl_1_1vector.html",tooltip="Fixed sized vector implementation that mirroring std::vector functionality."];
+}

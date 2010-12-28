@@ -1,0 +1,7 @@
+function y=gaussMix(x,p)
+    y = 0;
+    a=p(1:)
+    for i=1:length(a)
+        y = y+ a(i) * exp(-(x-mu(i)).^2/si(i));
+    end
+end
