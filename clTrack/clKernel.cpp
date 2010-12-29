@@ -6,28 +6,28 @@
  *  Copyright 2010 __MyCompanyName__. All rights reserved.
  *
  */
-#define __CL_ENABLE_EXCEPTIONS
 #include "clKernel.h"
 #include <string>
 #include "cl.hpp"
 #include "clEnvironment.h"
 #include <iostream>
-clKernel::clKernel()
+clKernel::clKernel():
+	_name(), _initialized(false)
+{
+}
+
+void clKernel::initialize(std::string code)
 {
 	//dummy kernel
-	_code = std::string ("__kernel void hello(void) "
-						"{ "
-							"  "
-						"} ");
 	try {
 		cl_int err;
 		clEnvironment *env = clEnvironment::getInstance();
 		cl::Program::Sources source(1,
-									std::make_pair(_code.c_str(),_code.length()));
+									std::make_pair(code.c_str(),code.length()));
 		cl::Program program = cl::Program(env->getContext(), source);
 		program.build(env->getDevices());
-	
-		_clKernel = cl::Kernel(program, "hello", &err);
+		
+		_clKernel = cl::Kernel(program, _name.c_str(), &err);
 		
 	}
 	catch (cl::Error err) {
@@ -38,10 +38,15 @@ clKernel::clKernel()
 		<< ")"
 		<< std::endl;
 	}
+	_initialized = true;
 }
 
 int clKernel::run()
 {
+	if (!_initialized)
+	{
+		initialize(getSource());
+	}
 	clEnvironment *env = clEnvironment::getInstance();
 	cl::CommandQueue queue = env->getQueue();
 	

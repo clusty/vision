@@ -1,7 +1,9 @@
 #include <iostream>
-#include "clKernel.h"
+#include "cl2DConvolutionKernelSeparable.h"
 int main (int argc, char * const argv[]) {
-	clKernel dummy;
+	cl2DConvolutionKernelSeparable dummy("Convolve");
 	// std::cout << "Hello, World!\n";
+
 	return dummy.run();
+	
 }
