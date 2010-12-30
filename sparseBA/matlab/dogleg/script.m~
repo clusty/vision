@@ -1,7 +1,0 @@
-clear all;
-x=-10:0.1:10;
-a=[1 2];
-c=[-3 3];
-s= [3 5];
-data = gaussMix(a,c,s)
-plot(data)
