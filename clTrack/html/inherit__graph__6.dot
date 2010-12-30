@@ -1,7 +1,0 @@
-digraph G
-{
-  edge [fontname="FreeSans.ttf",fontsize="10",labelfontname="FreeSans.ttf",labelfontsize="10"];
-  node [fontname="FreeSans.ttf",fontsize="10",shape=record];
-  rankdir=LR;
-  Node1 [label="cl::detail::KernelArgumentHandler\< LocalSpaceArg \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structcl_1_1detail_1_1_kernel_argument_handler_3_01_local_space_arg_01_4.html"];
-}
