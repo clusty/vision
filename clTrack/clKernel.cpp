@@ -11,8 +11,9 @@
 #include "cl.hpp"
 #include "clEnvironment.h"
 #include <iostream>
+
 clKernel::clKernel():
-	_name(), _initialized(false)
+	_initialized(false)
 {
 }
 
@@ -26,8 +27,11 @@ void clKernel::initialize(std::string code)
 									std::make_pair(code.c_str(),code.length()));
 		cl::Program program = cl::Program(env->getContext(), source);
 		program.build(env->getDevices());
-		
-		_clKernel = cl::Kernel(program, _name.c_str(), &err);
+		//generate all the kernels
+		for (int i=0;i<_names.size();++i)
+		{
+			_clKernels.push_back(cl::Kernel(program, _names[i].c_str(), &err));
+		}
 		
 	}
 	catch (cl::Error err) {
@@ -52,7 +56,7 @@ int clKernel::run()
 	
 	cl::Event event;
 	try{
-	queue.enqueueNDRangeKernel( _clKernel, 
+	queue.enqueueNDRangeKernel( _clKernels[0], 
 								cl::NullRange, 
 								cl::NDRange(4,4),
 								cl::NullRange,

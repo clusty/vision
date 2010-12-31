@@ -13,7 +13,7 @@
 class cl2DConvolutionKernelSeparable : public clKernel 
 {
 public:
-	cl2DConvolutionKernelSeparable(std::string name);
+	cl2DConvolutionKernelSeparable(std::vector<std::string> names);
 	virtual std::string getSource();
 	virtual int run();
 private:

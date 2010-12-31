@@ -11,7 +11,6 @@
 #ifndef _CL_KERNEL
 #define _CL_KERNEL
 
-#include<string>
 #include "cl.hpp"
 class clKernel{
 public:
@@ -21,9 +20,8 @@ public:
 	virtual void initialize(std::string code);
 	
 protected:
-	std::string _code;
-	cl::Kernel _clKernel;
-	std::string _name;
+	std::vector<cl::Kernel> _clKernels;
+	std::vector<std::string> _names;
 	bool _initialized;
 	
 };
