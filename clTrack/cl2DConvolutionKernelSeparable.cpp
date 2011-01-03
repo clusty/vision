@@ -47,8 +47,8 @@ int cl2DConvolutionKernelSeparable::run()
 	std::string dummy;
 	std::getline(imag, dummy);std::getline(imag, dummy);std::getline(imag, dummy);std::getline(imag, dummy);
 
-		for (int i=0;i<imageH * imageW; ++i)
-		{
+	for (int i=0;i<imageH * imageW; ++i)
+	{
 		imag>>h_Input[i];
 	}
 	imag.close();

@@ -10,6 +10,7 @@
 		3B338C8E12C86CA00024212D /* OpenCL.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3B338C8D12C86CA00024212D /* OpenCL.framework */; };
 		3B338C9312C86E3E0024212D /* clEnvironment.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3B338C9212C86E3E0024212D /* clEnvironment.cpp */; };
 		3B338E0612C968580024212D /* clKernel.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3B338E0512C968580024212D /* clKernel.cpp */; };
+		3B6AC15212D12ED200B5A886 /* clKLTFeatureExtract.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3B6AC15112D12ED200B5A886 /* clKLTFeatureExtract.cpp */; };
 		3BFCFE3D12CAA7480018D111 /* cl2DConvolutionKernelSeparable.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3BFCFE3C12CAA7470018D111 /* cl2DConvolutionKernelSeparable.cpp */; };
 		8DD76F650486A84900D96B5E /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 08FB7796FE84155DC02AAC07 /* main.cpp */; settings = {ATTRIBUTES = (); }; };
 /* End PBXBuildFile section */
@@ -35,6 +36,10 @@
 		3B338E0412C968580024212D /* clKernel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = clKernel.h; sourceTree = "<group>"; };
 		3B338E0512C968580024212D /* clKernel.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = clKernel.cpp; sourceTree = "<group>"; };
 		3B3C3D4412CACD7F004168DC /* ConvolutionSeparable.cl */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.opencl; path = ConvolutionSeparable.cl; sourceTree = "<group>"; };
+		3B6AC15012D12ED200B5A886 /* clKLTFeatureExtract.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = clKLTFeatureExtract.h; sourceTree = "<group>"; };
+		3B6AC15112D12ED200B5A886 /* clKLTFeatureExtract.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = clKLTFeatureExtract.cpp; sourceTree = "<group>"; };
+		3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.opencl; path = kltFeatureExtract.cl; sourceTree = "<group>"; };
+		3B6AC1C312D1390E00B5A886 /* Utils.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Utils.h; sourceTree = "<group>"; };
 		3BFCFE3B12CAA7470018D111 /* cl2DConvolutionKernelSeparable.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = cl2DConvolutionKernelSeparable.h; sourceTree = "<group>"; };
 		3BFCFE3C12CAA7470018D111 /* cl2DConvolutionKernelSeparable.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = cl2DConvolutionKernelSeparable.cpp; sourceTree = "<group>"; };
 		8DD76F6C0486A84900D96B5E /* clTrack */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = clTrack; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -74,6 +79,9 @@
 				08FB7796FE84155DC02AAC07 /* main.cpp */,
 				3B338C9112C86E3E0024212D /* clEnvironment.h */,
 				3B338C9212C86E3E0024212D /* clEnvironment.cpp */,
+				3B6AC15012D12ED200B5A886 /* clKLTFeatureExtract.h */,
+				3B6AC15112D12ED200B5A886 /* clKLTFeatureExtract.cpp */,
+				3B6AC1C312D1390E00B5A886 /* Utils.h */,
 			);
 			name = Source;
 			sourceTree = "<group>";
@@ -90,6 +98,7 @@
 			isa = PBXGroup;
 			children = (
 				3B3C3D4412CACD7F004168DC /* ConvolutionSeparable.cl */,
+				3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */,
 			);
 			name = openCL;
 			sourceTree = "<group>";
@@ -141,6 +150,7 @@
 				3B338C9312C86E3E0024212D /* clEnvironment.cpp in Sources */,
 				3B338E0612C968580024212D /* clKernel.cpp in Sources */,
 				3BFCFE3D12CAA7480018D111 /* cl2DConvolutionKernelSeparable.cpp in Sources */,
+				3B6AC15212D12ED200B5A886 /* clKLTFeatureExtract.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -181,6 +191,7 @@
 				ENABLE_OPENMP_SUPPORT = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_VERSION = "";
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				ONLY_ACTIVE_ARCH = YES;
@@ -195,6 +206,7 @@
 				ARCHS = "$(ARCHS_STANDARD_32_64_BIT)";
 				ENABLE_OPENMP_SUPPORT = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_VERSION = "";
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				PREBINDING = NO;

@@ -6,12 +6,12 @@
  *  Copyright 2010 __MyCompanyName__. All rights reserved.
  *
  */
-#define __CL_ENABLE_EXCEPTIONS
 #include "clEnvironment.h"
 #include "cl.hpp"
 #include <vector>
 #include <iostream>
 #include <string>
+#include "Utils.h"
 #define DEBUG
 
 clEnvironment* clEnvironment::_clEnvironment = 0;
@@ -29,7 +29,7 @@ clEnvironment::clEnvironment()
 		_clGPUDevices = _clGPUContext.getInfo<CL_CONTEXT_DEVICES>();
 		
 		//make a queue for each device
-		_clQueue = cl::CommandQueue(_clGPUContext, _clGPUDevices[0], 0, &err);
+		_clQueue = cl::CommandQueue(_clGPUContext, _clGPUDevices[0], 0 , &err);
 #ifdef DEBUG
 		std::cout << "Platforms"<<std::endl;
 		for (int i=0; i<_clPlatforms.size(); ++i) {
@@ -46,15 +46,26 @@ clEnvironment::clEnvironment()
 			std::string param;
 			_clGPUDevices[i].getInfo(CL_DEVICE_NAME, &param);
 			std::cout<<i <<" "<<param<<" "<<std::endl;
-			
+			int bits;
+			_clGPUDevices[i].getInfo<CL_DEVICE_QUEUE_PROPERTIES>(&bits);
+			std::cout<<"Out of Order execution:"<<(bits & CL_QUEUE_OUT_OF_ORDER_EXEC_MODE_ENABLE)<<std::endl;
+			std::cout<<"Profiling Enabled:"<<(bits & CL_QUEUE_PROFILING_ENABLE)<<std::endl;
+			std::cout<<"Image Support:"<<_clGPUDevices[i].getInfo<CL_DEVICE_IMAGE_SUPPORT>(NULL)<<std::endl;
 		}
+		std::vector<cl::ImageFormat> formats;
+		_clGPUContext.getSupportedImageFormats(CL_MEM_READ_ONLY | CL_MEM_COPY_HOST_PTR, 
+											   CL_MEM_OBJECT_IMAGE2D, &formats);
+	/*	for (int i=0;i<formats.size();i++)
+		{
+			std::cout<<formats[i].
+		}*/
 #endif
 	}
 	catch (cl::Error err) {
 		std::cerr  << "ERROR: "
 		           << err.what()
 		           << "("
-		           << err.err()
+		           << err.err()<<"-"<<GetErrorString(err.err())
 		           << ")"
 		           << std::endl;
 	}
