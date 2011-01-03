@@ -7,7 +7,7 @@ int main (int argc, char * const argv[]) {
 	clKLTFeatureExtract kltF;
 	int imageW, imageH;
 	cout << "reading input"<<endl;
-	std::ifstream imag("/Users/clusty/Documents/code/git/vision/clTrack/box.pgm");
+	std::ifstream imag("/Users/clusty/Documents/code/git/vision/clTrack/B_ANTOINETTE_3DTRACK_LONG.0001.pgm");
 	std::string dummy;
 	std::getline(imag, dummy);std::getline(imag, dummy);
 	imag>>dummy; imageW = atoi(dummy.c_str());
@@ -23,12 +23,14 @@ int main (int argc, char * const argv[]) {
 	imag.close();
 	
 	cout<<"running"<<endl;
-	kltF.bindData(imageW, imageH, h_Input);
+	cl_int patchSize = 15;
+	kltF.bindData(imageW, imageH, h_Input, patchSize);
 	kltF.run();
 	kltF.getResults(h_Output);
 	cout<<"dumping results"<<endl;
 
 	std::ofstream convo("/Users/clusty/Documents/code/git/vision/clTrack/dx.pgm");
+	
 	
 	convo<<"P2\n#blahblah\n"<<imageW<<" "<<imageH<<std::endl<<"255\n";
 	for (int i=0;i<imageH * imageW; ++i) {

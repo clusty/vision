@@ -20,7 +20,8 @@ unsigned const clKLTFeatureExtract::kSize = 3;
 cl_float clKLTFeatureExtract::kernelDerivative[3] = {1,-2,1};
 
 
-clKLTFeatureExtract::clKLTFeatureExtract()
+clKLTFeatureExtract::clKLTFeatureExtract(cl_int windowSize)
+:_patchSize(windowSize)
 {	
 	if (!_initialized)
 	{
@@ -62,7 +63,8 @@ void clKLTFeatureExtract::initialize()
 		
 		try{
 			char buildOptions[255];
-			sprintf(buildOptions,"-D KERNEL_RADIUS=%u",static_cast<int>(floor(kSize/2.0)));
+			sprintf(buildOptions,"-D KERNEL_RADIUS=%u -D WINDOW_SIZE=%u",static_cast<int>(floor(kSize/2.0)),
+					_patchSize);
 			err = program.build(env->getDevices(), buildOptions);
 		}		
 		catch (cl::Error err) {
@@ -71,6 +73,7 @@ void clKLTFeatureExtract::initialize()
 		
 		_kernels.push_back(cl::Kernel(program, "derivativeX", NULL));
 		_kernels.push_back(cl::Kernel(program, "derivativeY", NULL));
+		_kernels.push_back(cl::Kernel(program, "computeCornerness", NULL));
 		_initialized = true;
 	}
 	
@@ -84,10 +87,11 @@ void clKLTFeatureExtract::initialize()
 	}
 }
 
-void clKLTFeatureExtract::bindData(unsigned imageW, unsigned imageH,cl_float *h_Input)
+void clKLTFeatureExtract::bindData(unsigned imageW, unsigned imageH,cl_float *h_Input, cl_int windowSize)
 {
 	_imageW = imageW;
 	_imageH = imageH;
+	_patchSize = windowSize;
 	clEnvironment *env = clEnvironment::getInstance();
 	try{
 		d_KernelDerivative = cl::Buffer(env->getContext(), CL_MEM_READ_ONLY | CL_MEM_COPY_HOST_PTR, 
@@ -96,10 +100,10 @@ void clKLTFeatureExtract::bindData(unsigned imageW, unsigned imageH,cl_float *h_
 		d_Input = cl::Image2D(env->getContext(), CL_MEM_READ_ONLY | CL_MEM_COPY_HOST_PTR, 
 							  cl::ImageFormat(CL_RGBA, CL_FLOAT),_imageW, _imageH, 0, h_Input);
 		
-		d_OutputDx = cl::Image2D(env->getContext(), CL_MEM_WRITE_ONLY | CL_MEM_ALLOC_HOST_PTR, 
+		d_OutputDx = cl::Image2D(env->getContext(), CL_MEM_READ_WRITE | CL_MEM_ALLOC_HOST_PTR, 
 							  cl::ImageFormat(CL_RGBA, CL_FLOAT),_imageW, _imageH, 0, NULL);
 		
-		d_OutputDy = cl::Image2D(env->getContext(), CL_MEM_WRITE_ONLY | CL_MEM_ALLOC_HOST_PTR, 
+		d_OutputDy = cl::Image2D(env->getContext(), CL_MEM_READ_WRITE | CL_MEM_ALLOC_HOST_PTR, 
 							  cl::ImageFormat(CL_RGBA, CL_FLOAT),_imageW, _imageH, 0, NULL);
 	}
 	
@@ -134,7 +138,13 @@ void clKLTFeatureExtract::run()
 							   cl::NDRange(_imageW, _imageH), 
 							   cl::NDRange(_blockDim[0],_blockDim[1]));
 		
+		clEnvironment *env = clEnvironment::getInstance();
+		//allocate the PseudoHessian
+		
+		d_Cornerness = cl::Image2D(env->getContext(), CL_MEM_READ_WRITE | CL_MEM_ALLOC_HOST_PTR, 
+								 cl::ImageFormat(CL_RGBA, CL_FLOAT),_imageW, _imageH, 0, NULL);
 		queue.enqueueBarrier();
+		
 	}
 	catch (cl::Error err) {
 		std::cerr  << "ERROR: "
@@ -152,6 +162,6 @@ void clKLTFeatureExtract::getResults(cl_float *h_Output)
 	origin[0] = 0; origin[1] = 0; origin[2] = 0; 
 	chunk[0] = _imageW; chunk[1] = _imageH; chunk[2] =1;
 	cl::CommandQueue queue = clEnvironment::getInstance()->getQueue();
-	queue.enqueueReadImage(d_OutputDy,CL_TRUE, origin, chunk,0, 0, h_Output);
+	queue.enqueueReadImage(d_OutputDx,CL_TRUE, origin, chunk,0, 0, h_Output);
 	queue.enqueueBarrier();
 }

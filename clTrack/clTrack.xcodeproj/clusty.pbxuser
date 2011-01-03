@@ -391,6 +391,189 @@
 			3B6AC75612D1B6C600B5A886 /* PBXTextBookmark */ = 3B6AC75612D1B6C600B5A886 /* PBXTextBookmark */;
 			3B6AC75B12D1B6D000B5A886 /* PBXTextBookmark */ = 3B6AC75B12D1B6D000B5A886 /* PBXTextBookmark */;
 			3B6AC75C12D1B6E000B5A886 /* PBXTextBookmark */ = 3B6AC75C12D1B6E000B5A886 /* PBXTextBookmark */;
+			3B6AC75D12D1B76200B5A886 /* PBXTextBookmark */ = 3B6AC75D12D1B76200B5A886 /* PBXTextBookmark */;
+			3B6AC76012D1B84B00B5A886 /* PBXTextBookmark */ = 3B6AC76012D1B84B00B5A886 /* PBXTextBookmark */;
+			3B6AC76112D1B84B00B5A886 /* PBXTextBookmark */ = 3B6AC76112D1B84B00B5A886 /* PBXTextBookmark */;
+			3B6AC76212D1B84B00B5A886 /* PBXTextBookmark */ = 3B6AC76212D1B84B00B5A886 /* PBXTextBookmark */;
+			3B6AC76312D1B85100B5A886 /* PBXTextBookmark */ = 3B6AC76312D1B85100B5A886 /* PBXTextBookmark */;
+			3B6AC76512D1B86200B5A886 /* PBXTextBookmark */ = 3B6AC76512D1B86200B5A886 /* PBXTextBookmark */;
+			3B6AC76812D1B87E00B5A886 /* PBXTextBookmark */ = 3B6AC76812D1B87E00B5A886 /* PBXTextBookmark */;
+			3B6AC76B12D1B8B500B5A886 /* PBXTextBookmark */ = 3B6AC76B12D1B8B500B5A886 /* PBXTextBookmark */;
+			3B6AC76C12D1B8C200B5A886 /* PBXTextBookmark */ = 3B6AC76C12D1B8C200B5A886 /* PBXTextBookmark */;
+			3B6AC77512D1B93000B5A886 /* PBXTextBookmark */ = 3B6AC77512D1B93000B5A886 /* PBXTextBookmark */;
+			3B6AC77612D1B93000B5A886 /* PBXTextBookmark */ = 3B6AC77612D1B93000B5A886 /* PBXTextBookmark */;
+			3B6AC77712D1B93000B5A886 /* PBXTextBookmark */ = 3B6AC77712D1B93000B5A886 /* PBXTextBookmark */;
+			3B6AC77812D1B93800B5A886 /* PBXTextBookmark */ = 3B6AC77812D1B93800B5A886 /* PBXTextBookmark */;
+			3B6AC78312D1BA1D00B5A886 /* PBXTextBookmark */ = 3B6AC78312D1BA1D00B5A886 /* PBXTextBookmark */;
+			3B6AC78412D1BA1D00B5A886 /* PBXTextBookmark */ = 3B6AC78412D1BA1D00B5A886 /* PBXTextBookmark */;
+			3B6AC78512D1BA1D00B5A886 /* PBXTextBookmark */ = 3B6AC78512D1BA1D00B5A886 /* PBXTextBookmark */;
+			3B6AC78612D1BA1D00B5A886 /* PBXTextBookmark */ = 3B6AC78612D1BA1D00B5A886 /* PBXTextBookmark */;
+			3B6AC78712D1BA1D00B5A886 /* PBXTextBookmark */ = 3B6AC78712D1BA1D00B5A886 /* PBXTextBookmark */;
+			3B6AC78812D1BA2800B5A886 /* PBXTextBookmark */ = 3B6AC78812D1BA2800B5A886 /* PBXTextBookmark */;
+			3B6AC78912D1BA2800B5A886 /* PBXTextBookmark */ = 3B6AC78912D1BA2800B5A886 /* PBXTextBookmark */;
+			3B6AC78C12D1BA4100B5A886 /* PBXTextBookmark */ = 3B6AC78C12D1BA4100B5A886 /* PBXTextBookmark */;
+			3B6AC78D12D1BAB900B5A886 /* PBXTextBookmark */ = 3B6AC78D12D1BAB900B5A886 /* PBXTextBookmark */;
+			3B6AC79012D1BAC300B5A886 /* PBXTextBookmark */ = 3B6AC79012D1BAC300B5A886 /* PBXTextBookmark */;
+			3B6AC79112D1BAC300B5A886 /* PBXTextBookmark */ = 3B6AC79112D1BAC300B5A886 /* PBXTextBookmark */;
+			3B6AC79212D1BAC300B5A886 /* PBXTextBookmark */ = 3B6AC79212D1BAC300B5A886 /* PBXTextBookmark */;
+			3B6AC79312D1BACD00B5A886 /* PBXTextBookmark */ = 3B6AC79312D1BACD00B5A886 /* PBXTextBookmark */;
+			3B6AC79412D1BACD00B5A886 /* PBXTextBookmark */ = 3B6AC79412D1BACD00B5A886 /* PBXTextBookmark */;
+			3B6AC79B12D1BBD700B5A886 /* PBXTextBookmark */ = 3B6AC79B12D1BBD700B5A886 /* PBXTextBookmark */;
+			3B6AC79C12D1BBD700B5A886 /* PBXTextBookmark */ = 3B6AC79C12D1BBD700B5A886 /* PBXTextBookmark */;
+			3B6AC79D12D1BBD700B5A886 /* PBXTextBookmark */ = 3B6AC79D12D1BBD700B5A886 /* PBXTextBookmark */;
+			3B6AC79E12D1BBD700B5A886 /* PBXTextBookmark */ = 3B6AC79E12D1BBD700B5A886 /* PBXTextBookmark */;
+			3B6AC79F12D1BBD700B5A886 /* PBXTextBookmark */ = 3B6AC79F12D1BBD700B5A886 /* PBXTextBookmark */;
+			3B6AC7A012D1BBE000B5A886 /* PBXTextBookmark */ = 3B6AC7A012D1BBE000B5A886 /* PBXTextBookmark */;
+			3B6AC7A112D1BBE000B5A886 /* PBXTextBookmark */ = 3B6AC7A112D1BBE000B5A886 /* PBXTextBookmark */;
+			3B6AC7A612D1BC1400B5A886 /* PBXTextBookmark */ = 3B6AC7A612D1BC1400B5A886 /* PBXTextBookmark */;
+			3B6AC7A712D1BC1400B5A886 /* PBXTextBookmark */ = 3B6AC7A712D1BC1400B5A886 /* PBXTextBookmark */;
+			3B6AC7A812D1BC1400B5A886 /* PBXTextBookmark */ = 3B6AC7A812D1BC1400B5A886 /* PBXTextBookmark */;
+			3B6AC7A912D1BC1400B5A886 /* PBXTextBookmark */ = 3B6AC7A912D1BC1400B5A886 /* PBXTextBookmark */;
+			3B6AC7AA12D1BC1400B5A886 /* PBXTextBookmark */ = 3B6AC7AA12D1BC1400B5A886 /* PBXTextBookmark */;
+			3B6AC7AB12D1BC1C00B5A886 /* PBXTextBookmark */ = 3B6AC7AB12D1BC1C00B5A886 /* PBXTextBookmark */;
+			3B6AC7AC12D1BC1C00B5A886 /* PBXTextBookmark */ = 3B6AC7AC12D1BC1C00B5A886 /* PBXTextBookmark */;
+			3B6AC7AF12D1BE8400B5A886 /* PBXTextBookmark */ = 3B6AC7AF12D1BE8400B5A886 /* PBXTextBookmark */;
+			3B6AC7B012D1BE8400B5A886 /* PBXTextBookmark */ = 3B6AC7B012D1BE8400B5A886 /* PBXTextBookmark */;
+			3B6AC7B112D1BE8400B5A886 /* PBXTextBookmark */ = 3B6AC7B112D1BE8400B5A886 /* PBXTextBookmark */;
+			3B6AC7B212D1BE8D00B5A886 /* PBXTextBookmark */ = 3B6AC7B212D1BE8D00B5A886 /* PBXTextBookmark */;
+			3B6AC7B312D1BE8D00B5A886 /* PBXTextBookmark */ = 3B6AC7B312D1BE8D00B5A886 /* PBXTextBookmark */;
+			3B6AC7B412D1BE8D00B5A886 /* PBXTextBookmark */ = 3B6AC7B412D1BE8D00B5A886 /* PBXTextBookmark */;
+			3B6AC7B512D1BE8D00B5A886 /* PBXTextBookmark */ = 3B6AC7B512D1BE8D00B5A886 /* PBXTextBookmark */;
+			3B6AC7B812D1BEA600B5A886 /* PBXTextBookmark */ = 3B6AC7B812D1BEA600B5A886 /* PBXTextBookmark */;
+			3B6AC7B912D1BEA600B5A886 /* PBXTextBookmark */ = 3B6AC7B912D1BEA600B5A886 /* PBXTextBookmark */;
+			3B6AC7BA12D1BEA600B5A886 /* PBXTextBookmark */ = 3B6AC7BA12D1BEA600B5A886 /* PBXTextBookmark */;
+			3B6AC7BB12D1BEAF00B5A886 /* PBXTextBookmark */ = 3B6AC7BB12D1BEAF00B5A886 /* PBXTextBookmark */;
+			3B6AC7BC12D1BEAF00B5A886 /* PBXTextBookmark */ = 3B6AC7BC12D1BEAF00B5A886 /* PBXTextBookmark */;
+			3B6AC7BD12D1BEAF00B5A886 /* PBXTextBookmark */ = 3B6AC7BD12D1BEAF00B5A886 /* PBXTextBookmark */;
+			3B6AC7C012D1BED800B5A886 /* PBXTextBookmark */ = 3B6AC7C012D1BED800B5A886 /* PBXTextBookmark */;
+			3B6AC7C112D1BED800B5A886 /* PBXTextBookmark */ = 3B6AC7C112D1BED800B5A886 /* PBXTextBookmark */;
+			3B6AC7C212D1BED800B5A886 /* PBXTextBookmark */ = 3B6AC7C212D1BED800B5A886 /* PBXTextBookmark */;
+			3B6AC7C312D1BEE300B5A886 /* PBXTextBookmark */ = 3B6AC7C312D1BEE300B5A886 /* PBXTextBookmark */;
+			3B6AC7C412D1BEE300B5A886 /* PBXTextBookmark */ = 3B6AC7C412D1BEE300B5A886 /* PBXTextBookmark */;
+			3B6AC7C512D1BEE300B5A886 /* PBXTextBookmark */ = 3B6AC7C512D1BEE300B5A886 /* PBXTextBookmark */;
+			3B6AC7C812D1BEFE00B5A886 /* PBXTextBookmark */ = 3B6AC7C812D1BEFE00B5A886 /* PBXTextBookmark */;
+			3B6AC7C912D1BEFE00B5A886 /* PBXTextBookmark */ = 3B6AC7C912D1BEFE00B5A886 /* PBXTextBookmark */;
+			3B6AC7CA12D1BEFE00B5A886 /* PBXTextBookmark */ = 3B6AC7CA12D1BEFE00B5A886 /* PBXTextBookmark */;
+			3B6AC7CB12D1BF0500B5A886 /* PBXTextBookmark */ = 3B6AC7CB12D1BF0500B5A886 /* PBXTextBookmark */;
+			3B6AC7CC12D1BF0500B5A886 /* PBXTextBookmark */ = 3B6AC7CC12D1BF0500B5A886 /* PBXTextBookmark */;
+			3B6AC7CD12D1BF0500B5A886 /* PBXTextBookmark */ = 3B6AC7CD12D1BF0500B5A886 /* PBXTextBookmark */;
+			3B6AC7D012D1BF1400B5A886 /* PBXTextBookmark */ = 3B6AC7D012D1BF1400B5A886 /* PBXTextBookmark */;
+			3B6AC7D112D1BF1400B5A886 /* PBXTextBookmark */ = 3B6AC7D112D1BF1400B5A886 /* PBXTextBookmark */;
+			3B6AC7D212D1BF1400B5A886 /* PBXTextBookmark */ = 3B6AC7D212D1BF1400B5A886 /* PBXTextBookmark */;
+			3B6AC7D512D1BF2D00B5A886 /* PBXTextBookmark */ = 3B6AC7D512D1BF2D00B5A886 /* PBXTextBookmark */;
+			3B6AC7D612D1BF2D00B5A886 /* PBXTextBookmark */ = 3B6AC7D612D1BF2D00B5A886 /* PBXTextBookmark */;
+			3B6AC7D712D1BF2D00B5A886 /* PBXTextBookmark */ = 3B6AC7D712D1BF2D00B5A886 /* PBXTextBookmark */;
+			3B6AC7DA12D1BF4500B5A886 /* PBXTextBookmark */ = 3B6AC7DA12D1BF4500B5A886 /* PBXTextBookmark */;
+			3B6AC7DB12D1BF4500B5A886 /* PBXTextBookmark */ = 3B6AC7DB12D1BF4500B5A886 /* PBXTextBookmark */;
+			3B6AC7DC12D1BF4500B5A886 /* PBXTextBookmark */ = 3B6AC7DC12D1BF4500B5A886 /* PBXTextBookmark */;
+			3B6AC7DD12D1BF4F00B5A886 /* PBXTextBookmark */ = 3B6AC7DD12D1BF4F00B5A886 /* PBXTextBookmark */;
+			3B6AC7DE12D1BF4F00B5A886 /* PBXTextBookmark */ = 3B6AC7DE12D1BF4F00B5A886 /* PBXTextBookmark */;
+			3B6AC7DF12D1BF5300B5A886 /* PBXTextBookmark */ = 3B6AC7DF12D1BF5300B5A886 /* PBXTextBookmark */;
+			3B6AC7E212D1C08700B5A886 /* PBXTextBookmark */ = 3B6AC7E212D1C08700B5A886 /* PBXTextBookmark */;
+			3B6AC7E512D1C0A600B5A886 /* PBXTextBookmark */ = 3B6AC7E512D1C0A600B5A886 /* PBXTextBookmark */;
+			3B6AC7EA12D1C43700B5A886 /* PBXTextBookmark */ = 3B6AC7EA12D1C43700B5A886 /* PBXTextBookmark */;
+			3B6AC7EB12D1C43700B5A886 /* PBXTextBookmark */ = 3B6AC7EB12D1C43700B5A886 /* PBXTextBookmark */;
+			3B6AC7EC12D1C43700B5A886 /* PBXTextBookmark */ = 3B6AC7EC12D1C43700B5A886 /* PBXTextBookmark */;
+			3B6AC7EF12D1C44C00B5A886 /* PBXTextBookmark */ = 3B6AC7EF12D1C44C00B5A886 /* PBXTextBookmark */;
+			3B6AC7F012D1C44C00B5A886 /* PBXTextBookmark */ = 3B6AC7F012D1C44C00B5A886 /* PBXTextBookmark */;
+			3B6AC7F112D1C44C00B5A886 /* PBXTextBookmark */ = 3B6AC7F112D1C44C00B5A886 /* PBXTextBookmark */;
+			3B6AC7F212D1C45400B5A886 /* PBXTextBookmark */ = 3B6AC7F212D1C45400B5A886 /* PBXTextBookmark */;
+			3B6AC7F412D1C47400B5A886 /* PBXTextBookmark */ = 3B6AC7F412D1C47400B5A886 /* PBXTextBookmark */;
+			3B6AC7F512D1C47400B5A886 /* PBXTextBookmark */ = 3B6AC7F512D1C47400B5A886 /* PBXTextBookmark */;
+			3B6AC7F612D1C47400B5A886 /* PBXTextBookmark */ = 3B6AC7F612D1C47400B5A886 /* PBXTextBookmark */;
+			3B6AC7F912D1C48600B5A886 /* PBXTextBookmark */ = 3B6AC7F912D1C48600B5A886 /* PBXTextBookmark */;
+			3B6AC7FA12D1C48600B5A886 /* PBXTextBookmark */ = 3B6AC7FA12D1C48600B5A886 /* PBXTextBookmark */;
+			3B6AC7FB12D1C48600B5A886 /* PBXTextBookmark */ = 3B6AC7FB12D1C48600B5A886 /* PBXTextBookmark */;
+			3B6AC7FC12D1C49800B5A886 /* PBXTextBookmark */ = 3B6AC7FC12D1C49800B5A886 /* PBXTextBookmark */;
+			3B6AC80112D1C60100B5A886 /* PBXTextBookmark */ = 3B6AC80112D1C60100B5A886 /* PBXTextBookmark */;
+			3B6AC80412D1C63C00B5A886 /* PBXTextBookmark */ = 3B6AC80412D1C63C00B5A886 /* PBXTextBookmark */;
+			3B6AC80712D1C67E00B5A886 /* PBXTextBookmark */ = 3B6AC80712D1C67E00B5A886 /* PBXTextBookmark */;
+			3B6AC80A12D1C6AC00B5A886 /* PBXTextBookmark */ = 3B6AC80A12D1C6AC00B5A886 /* PBXTextBookmark */;
+			3B6AC80B12D1C6DA00B5A886 /* PBXTextBookmark */ = 3B6AC80B12D1C6DA00B5A886 /* PBXTextBookmark */;
+			3B6AC80C12D1C6DA00B5A886 /* PBXTextBookmark */ = 3B6AC80C12D1C6DA00B5A886 /* PBXTextBookmark */;
+			3B6AC80F12D1C6E800B5A886 /* PBXTextBookmark */ = 3B6AC80F12D1C6E800B5A886 /* PBXTextBookmark */;
+			3B6AC81012D1C6E800B5A886 /* PBXTextBookmark */ = 3B6AC81012D1C6E800B5A886 /* PBXTextBookmark */;
+			3B6AC81112D1C6E800B5A886 /* PBXTextBookmark */ = 3B6AC81112D1C6E800B5A886 /* PBXTextBookmark */;
+			3B6AC81212D1C6F300B5A886 /* PBXTextBookmark */ = 3B6AC81212D1C6F300B5A886 /* PBXTextBookmark */;
+			3B6AC81512D1C71800B5A886 /* PBXTextBookmark */ = 3B6AC81512D1C71800B5A886 /* PBXTextBookmark */;
+			3B6AC81612D1C76B00B5A886 /* PBXTextBookmark */ = 3B6AC81612D1C76B00B5A886 /* PBXTextBookmark */;
+			3B6AC81712D1C76B00B5A886 /* PBXTextBookmark */ = 3B6AC81712D1C76B00B5A886 /* PBXTextBookmark */;
+			3B6AC81A12D1C7A100B5A886 /* PBXTextBookmark */ = 3B6AC81A12D1C7A100B5A886 /* PBXTextBookmark */;
+			3B6AC81B12D1C7A100B5A886 /* PBXTextBookmark */ = 3B6AC81B12D1C7A100B5A886 /* PBXTextBookmark */;
+			3B6AC81C12D1C7A100B5A886 /* PBXTextBookmark */ = 3B6AC81C12D1C7A100B5A886 /* PBXTextBookmark */;
+			3B6AC81D12D1C7AF00B5A886 /* PBXTextBookmark */ = 3B6AC81D12D1C7AF00B5A886 /* PBXTextBookmark */;
+			3B6AC82012D1C84000B5A886 /* PBXTextBookmark */ = 3B6AC82012D1C84000B5A886 /* PBXTextBookmark */;
+			3B6AC82112D1C84000B5A886 /* PBXTextBookmark */ = 3B6AC82112D1C84000B5A886 /* PBXTextBookmark */;
+			3B6AC82212D1C84000B5A886 /* PBXTextBookmark */ = 3B6AC82212D1C84000B5A886 /* PBXTextBookmark */;
+			3B6AC82312D1C84000B5A886 /* PBXTextBookmark */ = 3B6AC82312D1C84000B5A886 /* PBXTextBookmark */;
+			3B6AC82412D1C84200B5A886 /* PBXTextBookmark */ = 3B6AC82412D1C84200B5A886 /* PBXTextBookmark */;
+			3B6AC82512D1C84200B5A886 /* PBXTextBookmark */ = 3B6AC82512D1C84200B5A886 /* PBXTextBookmark */;
+			3B6AC82812D1C8C300B5A886 /* PBXTextBookmark */ = 3B6AC82812D1C8C300B5A886 /* PBXTextBookmark */;
+			3B6AC82912D1C8C300B5A886 /* PBXTextBookmark */ = 3B6AC82912D1C8C300B5A886 /* PBXTextBookmark */;
+			3B6AC82A12D1C8C300B5A886 /* PBXTextBookmark */ = 3B6AC82A12D1C8C300B5A886 /* PBXTextBookmark */;
+			3B6AC82B12D1C8C300B5A886 /* PBXTextBookmark */ = 3B6AC82B12D1C8C300B5A886 /* PBXTextBookmark */;
+			3B6AC82C12D1C8CB00B5A886 /* PBXTextBookmark */ = 3B6AC82C12D1C8CB00B5A886 /* PBXTextBookmark */;
+			3B6AC82D12D1C8CB00B5A886 /* PBXTextBookmark */ = 3B6AC82D12D1C8CB00B5A886 /* PBXTextBookmark */;
+			3B6AC82E12D1C8CB00B5A886 /* PBXTextBookmark */ = 3B6AC82E12D1C8CB00B5A886 /* PBXTextBookmark */;
+			3B6AC83112D1C8DD00B5A886 /* PBXTextBookmark */ = 3B6AC83112D1C8DD00B5A886 /* PBXTextBookmark */;
+			3B6AC83212D1C8DD00B5A886 /* PBXTextBookmark */ = 3B6AC83212D1C8DD00B5A886 /* PBXTextBookmark */;
+			3B6AC83312D1C8DD00B5A886 /* PBXTextBookmark */ = 3B6AC83312D1C8DD00B5A886 /* PBXTextBookmark */;
+			3B6AC83412D1C8DD00B5A886 /* PBXTextBookmark */ = 3B6AC83412D1C8DD00B5A886 /* PBXTextBookmark */;
+			3B6AC83512D1C8E100B5A886 /* PBXTextBookmark */ = 3B6AC83512D1C8E100B5A886 /* PBXTextBookmark */;
+			3B6AC83712D1C90F00B5A886 /* PBXTextBookmark */ = 3B6AC83712D1C90F00B5A886 /* PBXTextBookmark */;
+			3B6AC83812D1C90F00B5A886 /* PBXTextBookmark */ = 3B6AC83812D1C90F00B5A886 /* PBXTextBookmark */;
+			3B6AC83B12D1C96700B5A886 /* PBXTextBookmark */ = 3B6AC83B12D1C96700B5A886 /* PBXTextBookmark */;
+			3B6AC83C12D1C96700B5A886 /* PBXTextBookmark */ = 3B6AC83C12D1C96700B5A886 /* PBXTextBookmark */;
+			3B6AC83D12D1C96700B5A886 /* PBXTextBookmark */ = 3B6AC83D12D1C96700B5A886 /* PBXTextBookmark */;
+			3B6AC83E12D1C96700B5A886 /* PBXTextBookmark */ = 3B6AC83E12D1C96700B5A886 /* PBXTextBookmark */;
+			3B6AC83F12D1C96F00B5A886 /* PBXTextBookmark */ = 3B6AC83F12D1C96F00B5A886 /* PBXTextBookmark */;
+			3B6AC84012D1C96F00B5A886 /* PBXTextBookmark */ = 3B6AC84012D1C96F00B5A886 /* PBXTextBookmark */;
+			3B6AC84112D1C96F00B5A886 /* PBXTextBookmark */ = 3B6AC84112D1C96F00B5A886 /* PBXTextBookmark */;
+			3B6AC84412D1C99700B5A886 /* PBXTextBookmark */ = 3B6AC84412D1C99700B5A886 /* PBXTextBookmark */;
+			3B6AC84512D1C99700B5A886 /* PBXTextBookmark */ = 3B6AC84512D1C99700B5A886 /* PBXTextBookmark */;
+			3B6AC84612D1C99700B5A886 /* PBXTextBookmark */ = 3B6AC84612D1C99700B5A886 /* PBXTextBookmark */;
+			3B6AC84712D1C9A500B5A886 /* PBXTextBookmark */ = 3B6AC84712D1C9A500B5A886 /* PBXTextBookmark */;
+			3B6AC84812D1C9A500B5A886 /* PBXTextBookmark */ = 3B6AC84812D1C9A500B5A886 /* PBXTextBookmark */;
+			3B6AC84912D1C9A500B5A886 /* PBXTextBookmark */ = 3B6AC84912D1C9A500B5A886 /* PBXTextBookmark */;
+			3B6AC84C12D1C9DF00B5A886 /* PBXTextBookmark */ = 3B6AC84C12D1C9DF00B5A886 /* PBXTextBookmark */;
+			3B6AC84D12D1C9DF00B5A886 /* PBXTextBookmark */ = 3B6AC84D12D1C9DF00B5A886 /* PBXTextBookmark */;
+			3B6AC84E12D1C9DF00B5A886 /* PBXTextBookmark */ = 3B6AC84E12D1C9DF00B5A886 /* PBXTextBookmark */;
+			3B6AC84F12D1C9DF00B5A886 /* PBXTextBookmark */ = 3B6AC84F12D1C9DF00B5A886 /* PBXTextBookmark */;
+			3B6AC85212D1CA0900B5A886 /* PBXTextBookmark */ = 3B6AC85212D1CA0900B5A886 /* PBXTextBookmark */;
+			3B6AC85312D1CA0900B5A886 /* PBXTextBookmark */ = 3B6AC85312D1CA0900B5A886 /* PBXTextBookmark */;
+			3B6AC85412D1CA0900B5A886 /* PBXTextBookmark */ = 3B6AC85412D1CA0900B5A886 /* PBXTextBookmark */;
+			3B6AC85712D1CA1400B5A886 /* PBXTextBookmark */ = 3B6AC85712D1CA1400B5A886 /* PBXTextBookmark */;
+			3B6AC85812D1CA1400B5A886 /* PBXTextBookmark */ = 3B6AC85812D1CA1400B5A886 /* PBXTextBookmark */;
+			3B6AC85912D1CA1400B5A886 /* PBXTextBookmark */ = 3B6AC85912D1CA1400B5A886 /* PBXTextBookmark */;
+			3B6AC85A12D1CA1D00B5A886 /* PBXTextBookmark */ = 3B6AC85A12D1CA1D00B5A886 /* PBXTextBookmark */;
+			3B6AC85B12D1CA1D00B5A886 /* PBXTextBookmark */ = 3B6AC85B12D1CA1D00B5A886 /* PBXTextBookmark */;
+			3B6AC85C12D1CA1D00B5A886 /* PBXTextBookmark */ = 3B6AC85C12D1CA1D00B5A886 /* PBXTextBookmark */;
+			3B6AC85F12D1CA2800B5A886 /* PBXTextBookmark */ = 3B6AC85F12D1CA2800B5A886 /* PBXTextBookmark */;
+			3B6AC86012D1CA2800B5A886 /* PBXTextBookmark */ = 3B6AC86012D1CA2800B5A886 /* PBXTextBookmark */;
+			3B6AC86112D1CA2800B5A886 /* PBXTextBookmark */ = 3B6AC86112D1CA2800B5A886 /* PBXTextBookmark */;
+			3B6AC86212D1CA2F00B5A886 /* PBXTextBookmark */ = 3B6AC86212D1CA2F00B5A886 /* PBXTextBookmark */;
+			3B6AC86312D1CA2F00B5A886 /* PBXTextBookmark */ = 3B6AC86312D1CA2F00B5A886 /* PBXTextBookmark */;
+			3B6AC86612D1CA5100B5A886 /* PBXTextBookmark */ = 3B6AC86612D1CA5100B5A886 /* PBXTextBookmark */;
+			3B6AC86712D1CA5D00B5A886 /* PBXTextBookmark */ = 3B6AC86712D1CA5D00B5A886 /* PBXTextBookmark */;
+			3B6AC86812D1CA5D00B5A886 /* PBXTextBookmark */ = 3B6AC86812D1CA5D00B5A886 /* PBXTextBookmark */;
+			3B6AC86912D1CA5D00B5A886 /* PBXTextBookmark */ = 3B6AC86912D1CA5D00B5A886 /* PBXTextBookmark */;
+			3B6AC86C12D1CA6900B5A886 /* PBXTextBookmark */ = 3B6AC86C12D1CA6900B5A886 /* PBXTextBookmark */;
+			3B6AC86D12D1CA6900B5A886 /* PBXTextBookmark */ = 3B6AC86D12D1CA6900B5A886 /* PBXTextBookmark */;
+			3B6AC86E12D1CA6900B5A886 /* PBXTextBookmark */ = 3B6AC86E12D1CA6900B5A886 /* PBXTextBookmark */;
+			3B6AC86F12D1CA7700B5A886 /* PBXTextBookmark */ = 3B6AC86F12D1CA7700B5A886 /* PBXTextBookmark */;
+			3B6AC87012D1CA7700B5A886 /* PBXTextBookmark */ = 3B6AC87012D1CA7700B5A886 /* PBXTextBookmark */;
+			3B6AC87112D1CA7700B5A886 /* PBXTextBookmark */ = 3B6AC87112D1CA7700B5A886 /* PBXTextBookmark */;
+			3B6AC87412D1CA8100B5A886 /* PBXTextBookmark */ = 3B6AC87412D1CA8100B5A886 /* PBXTextBookmark */;
+			3B6AC87512D1CA8100B5A886 /* PBXTextBookmark */ = 3B6AC87512D1CA8100B5A886 /* PBXTextBookmark */;
+			3B6AC87612D1CA8100B5A886 /* PBXTextBookmark */ = 3B6AC87612D1CA8100B5A886 /* PBXTextBookmark */;
+			3B6AC87712D1CA8900B5A886 /* PBXTextBookmark */ = 3B6AC87712D1CA8900B5A886 /* PBXTextBookmark */;
+			3B6AC87812D1CAAC00B5A886 /* PBXTextBookmark */ = 3B6AC87812D1CAAC00B5A886 /* PBXTextBookmark */;
+			3B6AC87912D1CAAC00B5A886 /* PBXTextBookmark */ = 3B6AC87912D1CAAC00B5A886 /* PBXTextBookmark */;
+			3B6AC87C12D1CABF00B5A886 /* PBXTextBookmark */ = 3B6AC87C12D1CABF00B5A886 /* PBXTextBookmark */;
+			3B6AC87D12D1CABF00B5A886 /* PBXTextBookmark */ = 3B6AC87D12D1CABF00B5A886 /* PBXTextBookmark */;
+			3B6AC87E12D1CABF00B5A886 /* PBXTextBookmark */ = 3B6AC87E12D1CABF00B5A886 /* PBXTextBookmark */;
+			3B6AC87F12D1CAC600B5A886 /* PBXTextBookmark */ = 3B6AC87F12D1CAC600B5A886 /* PBXTextBookmark */;
+			3B6AC88212D1CAE600B5A886 /* PBXTextBookmark */ = 3B6AC88212D1CAE600B5A886 /* PBXTextBookmark */;
 		};
 		sourceControlManager = 3B338C8A12C86BD30024212D /* Source Control */;
 		userBuildSettings = {
@@ -398,9 +581,9 @@
 	};
 	08FB7796FE84155DC02AAC07 /* main.cpp */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {910, 572}}";
-			sepNavSelRange = "{1102, 0}";
-			sepNavVisRange = "{434, 722}";
+			sepNavIntBoundsRect = "{{0, 0}, {910, 598}}";
+			sepNavSelRange = "{1018, 0}";
+			sepNavVisRange = "{623, 619}";
 		};
 	};
 	3B338C8112C86BBC0024212D /* clTrack */ = {
@@ -467,9 +650,9 @@
 	};
 	3B338D1A12C9569B0024212D /* cl.hpp */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {881, 52182}}";
+			sepNavIntBoundsRect = "{{0, 0}, {881, 52169}}";
 			sepNavSelRange = "{65387, 0}";
-			sepNavVisRange = "{64617, 1231}";
+			sepNavVisRange = "{64731, 1182}";
 			sepNavWindowFrame = "{{38, 194}, {750, 558}}";
 		};
 	};
@@ -492,7 +675,7 @@
 		uiCtxt = {
 			sepNavIntBoundsRect = "{{0, 0}, {910, 559}}";
 			sepNavSelRange = "{569, 0}";
-			sepNavVisRange = "{414, 590}";
+			sepNavVisRange = "{522, 601}";
 		};
 	};
 	3B3C407F12CDC572004168DC /* opencl.h */ = {
@@ -541,23 +724,23 @@
 	};
 	3B6AC15012D12ED200B5A886 /* clKLTFeatureExtract.h */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {910, 416}}";
-			sepNavSelRange = "{557, 0}";
-			sepNavVisRange = "{75, 688}";
+			sepNavIntBoundsRect = "{{0, 0}, {881, 512}}";
+			sepNavSelRange = "{275, 0}";
+			sepNavVisRange = "{0, 838}";
 		};
 	};
 	3B6AC15112D12ED200B5A886 /* clKLTFeatureExtract.cpp */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {910, 1963}}";
-			sepNavSelRange = "{3800, 0}";
-			sepNavVisRange = "{3156, 816}";
+			sepNavIntBoundsRect = "{{0, 0}, {910, 2158}}";
+			sepNavSelRange = "{4731, 0}";
+			sepNavVisRange = "{4050, 749}";
 		};
 	};
 	3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {881, 512}}";
-			sepNavSelRange = "{102, 0}";
-			sepNavVisRange = "{0, 1068}";
+			sepNavIntBoundsRect = "{{0, 0}, {881, 819}}";
+			sepNavSelRange = "{2174, 0}";
+			sepNavVisRange = "{978, 1243}";
 		};
 	};
 	3B6AC19912D136DD00B5A886 /* PBXTextBookmark */ = {
@@ -623,7 +806,7 @@
 		fRef = 3B6AC15012D12ED200B5A886 /* clKLTFeatureExtract.h */;
 		name = "clKLTFeatureExtract.h: 18";
 		rLen = 0;
-		rLoc = 396;
+		rLoc = 437;
 		rType = 0;
 		vrLen = 723;
 		vrLoc = 25;
@@ -673,7 +856,7 @@
 		fRef = 3B6AC15112D12ED200B5A886 /* clKLTFeatureExtract.cpp */;
 		name = "clKLTFeatureExtract.cpp: 126";
 		rLen = 0;
-		rLoc = 3498;
+		rLoc = 3689;
 		rType = 0;
 		vrLen = 796;
 		vrLoc = 3481;
@@ -683,7 +866,7 @@
 		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
 		name = "main.cpp: 26";
 		rLen = 0;
-		rLoc = 761;
+		rLoc = 812;
 		rType = 0;
 		vrLen = 902;
 		vrLoc = 113;
@@ -693,7 +876,7 @@
 		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
 		name = "kltFeatureExtract.cl: 37";
 		rLen = 0;
-		rLoc = 1068;
+		rLoc = 2221;
 		rType = 0;
 		vrLen = 777;
 		vrLoc = 882;
@@ -703,7 +886,7 @@
 		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
 		name = "kltFeatureExtract.cl: 30";
 		rLen = 0;
-		rLoc = 1068;
+		rLoc = 2221;
 		rType = 0;
 		vrLen = 698;
 		vrLoc = 961;
@@ -713,7 +896,7 @@
 		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
 		name = "kltFeatureExtract.cl: 38";
 		rLen = 0;
-		rLoc = 1068;
+		rLoc = 2221;
 		rType = 0;
 		vrLen = 1152;
 		vrLoc = 202;
@@ -740,7 +923,7 @@
 		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
 		name = "kltFeatureExtract.cl: 30";
 		rLen = 0;
-		rLoc = 1068;
+		rLoc = 2221;
 		rType = 0;
 		vrLen = 815;
 		vrLoc = 807;
@@ -770,7 +953,7 @@
 		fRef = 3B6AC15112D12ED200B5A886 /* clKLTFeatureExtract.cpp */;
 		name = "clKLTFeatureExtract.cpp: 126";
 		rLen = 0;
-		rLoc = 3498;
+		rLoc = 3689;
 		rType = 0;
 		vrLen = 848;
 		vrLoc = 3169;
@@ -780,7 +963,7 @@
 		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
 		name = "kltFeatureExtract.cl: 2";
 		rLen = 0;
-		rLoc = 1068;
+		rLoc = 2221;
 		rType = 0;
 		vrLen = 978;
 		vrLoc = 0;
@@ -790,7 +973,7 @@
 		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
 		name = "main.cpp: 30";
 		rLen = 0;
-		rLoc = 874;
+		rLoc = 936;
 		rType = 0;
 		vrLen = 664;
 		vrLoc = 506;
@@ -890,7 +1073,7 @@
 		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
 		name = "kltFeatureExtract.cl: 2";
 		rLen = 0;
-		rLoc = 1068;
+		rLoc = 2221;
 		rType = 0;
 		vrLen = 978;
 		vrLoc = 0;
@@ -900,7 +1083,7 @@
 		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
 		name = "kltFeatureExtract.cl: 10";
 		rLen = 0;
-		rLoc = 1068;
+		rLoc = 2221;
 		rType = 0;
 		vrLen = 948;
 		vrLoc = 0;
@@ -920,7 +1103,7 @@
 		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
 		name = "kltFeatureExtract.cl: 10";
 		rLen = 0;
-		rLoc = 1068;
+		rLoc = 2221;
 		rType = 0;
 		vrLen = 1305;
 		vrLoc = 0;
@@ -930,7 +1113,7 @@
 		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
 		name = "kltFeatureExtract.cl: 10";
 		rLen = 0;
-		rLoc = 1068;
+		rLoc = 2221;
 		rType = 0;
 		vrLen = 954;
 		vrLoc = 0;
@@ -940,7 +1123,7 @@
 		fRef = 3B6AC15112D12ED200B5A886 /* clKLTFeatureExtract.cpp */;
 		name = "clKLTFeatureExtract.cpp: 126";
 		rLen = 0;
-		rLoc = 3498;
+		rLoc = 3689;
 		rType = 0;
 		vrLen = 848;
 		vrLoc = 3169;
@@ -950,7 +1133,7 @@
 		fRef = 3B6AC15112D12ED200B5A886 /* clKLTFeatureExtract.cpp */;
 		name = "clKLTFeatureExtract.cpp: 65";
 		rLen = 0;
-		rLoc = 1590;
+		rLoc = 1649;
 		rType = 0;
 		vrLen = 985;
 		vrLoc = 976;
@@ -960,7 +1143,7 @@
 		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
 		name = "kltFeatureExtract.cl: 10";
 		rLen = 0;
-		rLoc = 1068;
+		rLoc = 2221;
 		rType = 0;
 		vrLen = 1305;
 		vrLoc = 0;
@@ -970,7 +1153,7 @@
 		fRef = 3B6AC15112D12ED200B5A886 /* clKLTFeatureExtract.cpp */;
 		name = "clKLTFeatureExtract.cpp: 65";
 		rLen = 0;
-		rLoc = 1590;
+		rLoc = 1649;
 		rType = 0;
 		vrLen = 1186;
 		vrLoc = 912;
@@ -980,7 +1163,7 @@
 		fRef = 3B6AC15112D12ED200B5A886 /* clKLTFeatureExtract.cpp */;
 		name = "clKLTFeatureExtract.cpp: 65";
 		rLen = 0;
-		rLoc = 1590;
+		rLoc = 1649;
 		rType = 0;
 		vrLen = 601;
 		vrLoc = 0;
@@ -990,7 +1173,7 @@
 		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
 		name = "kltFeatureExtract.cl: 10";
 		rLen = 0;
-		rLoc = 1068;
+		rLoc = 2221;
 		rType = 0;
 		vrLen = 954;
 		vrLoc = 0;
@@ -1000,7 +1183,7 @@
 		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
 		name = "kltFeatureExtract.cl: 1";
 		rLen = 0;
-		rLoc = 1068;
+		rLoc = 2221;
 		rType = 0;
 		vrLen = 921;
 		vrLoc = 0;
@@ -1010,7 +1193,7 @@
 		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
 		name = "kltFeatureExtract.cl: 1";
 		rLen = 0;
-		rLoc = 1068;
+		rLoc = 2221;
 		rType = 0;
 		vrLen = 955;
 		vrLoc = 0;
@@ -1020,7 +1203,7 @@
 		fRef = 3B6AC15112D12ED200B5A886 /* clKLTFeatureExtract.cpp */;
 		name = "clKLTFeatureExtract.cpp: 65";
 		rLen = 0;
-		rLoc = 1590;
+		rLoc = 1649;
 		rType = 0;
 		vrLen = 1186;
 		vrLoc = 912;
@@ -1030,7 +1213,7 @@
 		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
 		name = "kltFeatureExtract.cl: 5";
 		rLen = 0;
-		rLoc = 1068;
+		rLoc = 2221;
 		rType = 0;
 		vrLen = 1246;
 		vrLoc = 0;
@@ -1040,7 +1223,7 @@
 		fRef = 3B6AC15112D12ED200B5A886 /* clKLTFeatureExtract.cpp */;
 		name = "clKLTFeatureExtract.cpp: 73";
 		rLen = 0;
-		rLoc = 1870;
+		rLoc = 1946;
 		rType = 0;
 		vrLen = 953;
 		vrLoc = 1138;
@@ -1050,7 +1233,7 @@
 		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
 		name = "kltFeatureExtract.cl: 5";
 		rLen = 0;
-		rLoc = 1068;
+		rLoc = 2221;
 		rType = 0;
 		vrLen = 837;
 		vrLoc = 0;
@@ -1060,7 +1243,7 @@
 		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
 		name = "kltFeatureExtract.cl: 9";
 		rLen = 0;
-		rLoc = 1068;
+		rLoc = 2221;
 		rType = 0;
 		vrLen = 815;
 		vrLoc = 0;
@@ -1070,7 +1253,7 @@
 		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
 		name = "kltFeatureExtract.cl: 9";
 		rLen = 0;
-		rLoc = 1068;
+		rLoc = 2221;
 		rType = 0;
 		vrLen = 864;
 		vrLoc = 0;
@@ -1080,7 +1263,7 @@
 		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
 		name = "kltFeatureExtract.cl: 7";
 		rLen = 0;
-		rLoc = 1068;
+		rLoc = 2221;
 		rType = 0;
 		vrLen = 841;
 		vrLoc = 0;
@@ -1090,7 +1273,7 @@
 		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
 		name = "kltFeatureExtract.cl: 1";
 		rLen = 0;
-		rLoc = 1068;
+		rLoc = 2221;
 		rType = 0;
 		vrLen = 1279;
 		vrLoc = 0;
@@ -1110,7 +1293,7 @@
 		fRef = 3B6AC15112D12ED200B5A886 /* clKLTFeatureExtract.cpp */;
 		name = "clKLTFeatureExtract.cpp: 73";
 		rLen = 0;
-		rLoc = 1870;
+		rLoc = 1946;
 		rType = 0;
 		vrLen = 925;
 		vrLoc = 1191;
@@ -1130,7 +1313,7 @@
 		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
 		name = "kltFeatureExtract.cl: 1";
 		rLen = 0;
-		rLoc = 1068;
+		rLoc = 2221;
 		rType = 0;
 		vrLen = 870;
 		vrLoc = 0;
@@ -1140,7 +1323,7 @@
 		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
 		name = "kltFeatureExtract.cl: 54";
 		rLen = 0;
-		rLoc = 1068;
+		rLoc = 2221;
 		rType = 0;
 		vrLen = 716;
 		vrLoc = 1123;
@@ -1150,7 +1333,7 @@
 		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
 		name = "kltFeatureExtract.cl: 54";
 		rLen = 0;
-		rLoc = 1068;
+		rLoc = 2221;
 		rType = 0;
 		vrLen = 1126;
 		vrLoc = 714;
@@ -1160,7 +1343,7 @@
 		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
 		name = "kltFeatureExtract.cl: 54";
 		rLen = 0;
-		rLoc = 1068;
+		rLoc = 2221;
 		rType = 0;
 		vrLen = 789;
 		vrLoc = 1050;
@@ -1210,7 +1393,7 @@
 		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
 		name = "kltFeatureExtract.cl: 54";
 		rLen = 0;
-		rLoc = 1068;
+		rLoc = 2221;
 		rType = 0;
 		vrLen = 1126;
 		vrLoc = 714;
@@ -1240,7 +1423,7 @@
 		fRef = 3B6AC15012D12ED200B5A886 /* clKLTFeatureExtract.h */;
 		name = "clKLTFeatureExtract.h: 18";
 		rLen = 0;
-		rLoc = 396;
+		rLoc = 437;
 		rType = 0;
 		vrLen = 710;
 		vrLoc = 40;
@@ -1250,7 +1433,7 @@
 		fRef = 3B6AC15112D12ED200B5A886 /* clKLTFeatureExtract.cpp */;
 		name = "clKLTFeatureExtract.cpp: 64";
 		rLen = 0;
-		rLoc = 1520;
+		rLoc = 1561;
 		rType = 0;
 		vrLen = 844;
 		vrLoc = 1321;
@@ -1270,7 +1453,7 @@
 		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
 		name = "kltFeatureExtract.cl: 54";
 		rLen = 0;
-		rLoc = 1068;
+		rLoc = 2221;
 		rType = 0;
 		vrLen = 749;
 		vrLoc = 1050;
@@ -1280,7 +1463,7 @@
 		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
 		name = "kltFeatureExtract.cl: 14";
 		rLen = 0;
-		rLoc = 1068;
+		rLoc = 2221;
 		rType = 0;
 		vrLen = 939;
 		vrLoc = 26;
@@ -1300,7 +1483,7 @@
 		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
 		name = "kltFeatureExtract.cl: 14";
 		rLen = 0;
-		rLoc = 1068;
+		rLoc = 2221;
 		rType = 0;
 		vrLen = 1223;
 		vrLoc = 0;
@@ -1310,7 +1493,7 @@
 		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
 		name = "main.cpp: 30";
 		rLen = 0;
-		rLoc = 874;
+		rLoc = 936;
 		rType = 0;
 		vrLen = 630;
 		vrLoc = 540;
@@ -1320,7 +1503,7 @@
 		fRef = 3B6AC15112D12ED200B5A886 /* clKLTFeatureExtract.cpp */;
 		name = "clKLTFeatureExtract.cpp: 64";
 		rLen = 0;
-		rLoc = 1520;
+		rLoc = 1561;
 		rType = 0;
 		vrLen = 844;
 		vrLoc = 1321;
@@ -1330,7 +1513,7 @@
 		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
 		name = "kltFeatureExtract.cl: 14";
 		rLen = 0;
-		rLoc = 1068;
+		rLoc = 2221;
 		rType = 0;
 		vrLen = 946;
 		vrLoc = 26;
@@ -1340,7 +1523,7 @@
 		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
 		name = "kltFeatureExtract.cl: 1";
 		rLen = 0;
-		rLoc = 103;
+		rLoc = 201;
 		rType = 0;
 		vrLen = 961;
 		vrLoc = 96;
@@ -1350,7 +1533,7 @@
 		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
 		name = "kltFeatureExtract.cl: 1";
 		rLen = 0;
-		rLoc = 103;
+		rLoc = 201;
 		rType = 0;
 		vrLen = 1292;
 		vrLoc = 0;
@@ -1360,7 +1543,7 @@
 		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
 		name = "kltFeatureExtract.cl: 1";
 		rLen = 0;
-		rLoc = 103;
+		rLoc = 201;
 		rType = 0;
 		vrLen = 972;
 		vrLoc = 96;
@@ -1370,7 +1553,7 @@
 		fRef = 3B6AC15112D12ED200B5A886 /* clKLTFeatureExtract.cpp */;
 		name = "clKLTFeatureExtract.cpp: 64";
 		rLen = 0;
-		rLoc = 1520;
+		rLoc = 1561;
 		rType = 0;
 		vrLen = 844;
 		vrLoc = 1321;
@@ -1380,7 +1563,7 @@
 		fRef = 3B6AC15112D12ED200B5A886 /* clKLTFeatureExtract.cpp */;
 		name = "clKLTFeatureExtract.cpp: 65";
 		rLen = 0;
-		rLoc = 1590;
+		rLoc = 1649;
 		rType = 0;
 		vrLen = 778;
 		vrLoc = 1321;
@@ -1390,7 +1573,7 @@
 		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
 		name = "kltFeatureExtract.cl: 1";
 		rLen = 0;
-		rLoc = 103;
+		rLoc = 201;
 		rType = 0;
 		vrLen = 1292;
 		vrLoc = 0;
@@ -1400,7 +1583,7 @@
 		fRef = 3B6AC15112D12ED200B5A886 /* clKLTFeatureExtract.cpp */;
 		name = "clKLTFeatureExtract.cpp: 65";
 		rLen = 0;
-		rLoc = 1590;
+		rLoc = 1649;
 		rType = 0;
 		vrLen = 881;
 		vrLoc = 0;
@@ -1410,7 +1593,7 @@
 		fRef = 3B6AC15112D12ED200B5A886 /* clKLTFeatureExtract.cpp */;
 		name = "clKLTFeatureExtract.cpp: 65";
 		rLen = 0;
-		rLoc = 1590;
+		rLoc = 1649;
 		rType = 0;
 		vrLen = 639;
 		vrLoc = 242;
@@ -1420,7 +1603,7 @@
 		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
 		name = "kltFeatureExtract.cl: 1";
 		rLen = 0;
-		rLoc = 103;
+		rLoc = 201;
 		rType = 0;
 		vrLen = 965;
 		vrLoc = 96;
@@ -1430,7 +1613,7 @@
 		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
 		name = "kltFeatureExtract.cl: 4";
 		rLen = 0;
-		rLoc = 225;
+		rLoc = 323;
 		rType = 0;
 		vrLen = 931;
 		vrLoc = 96;
@@ -1440,7 +1623,7 @@
 		fRef = 3B6AC15112D12ED200B5A886 /* clKLTFeatureExtract.cpp */;
 		name = "clKLTFeatureExtract.cpp: 65";
 		rLen = 0;
-		rLoc = 1590;
+		rLoc = 1649;
 		rType = 0;
 		vrLen = 881;
 		vrLoc = 0;
@@ -1450,7 +1633,7 @@
 		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
 		name = "kltFeatureExtract.cl: 7";
 		rLen = 0;
-		rLoc = 1067;
+		rLoc = 2220;
 		rType = 0;
 		vrLen = 1401;
 		vrLoc = 0;
@@ -1460,7 +1643,7 @@
 		fRef = 3B6AC15112D12ED200B5A886 /* clKLTFeatureExtract.cpp */;
 		name = "clKLTFeatureExtract.cpp: 73";
 		rLen = 0;
-		rLoc = 1870;
+		rLoc = 1946;
 		rType = 0;
 		vrLen = 717;
 		vrLoc = 1510;
@@ -1470,7 +1653,7 @@
 		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
 		name = "kltFeatureExtract.cl: 7";
 		rLen = 0;
-		rLoc = 1067;
+		rLoc = 2220;
 		rType = 0;
 		vrLen = 1002;
 		vrLoc = 96;
@@ -1480,7 +1663,7 @@
 		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
 		name = "kltFeatureExtract.cl: 5";
 		rLen = 0;
-		rLoc = 611;
+		rLoc = 662;
 		rType = 0;
 		vrLen = 919;
 		vrLoc = 179;
@@ -1490,7 +1673,7 @@
 		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
 		name = "kltFeatureExtract.cl: 5";
 		rLen = 0;
-		rLoc = 611;
+		rLoc = 662;
 		rType = 0;
 		vrLen = 1401;
 		vrLoc = 0;
@@ -1500,7 +1683,7 @@
 		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
 		name = "kltFeatureExtract.cl: 5";
 		rLen = 0;
-		rLoc = 611;
+		rLoc = 662;
 		rType = 0;
 		vrLen = 969;
 		vrLoc = 179;
@@ -1520,7 +1703,7 @@
 		fRef = 3B6AC15012D12ED200B5A886 /* clKLTFeatureExtract.h */;
 		name = "clKLTFeatureExtract.h: 25";
 		rLen = 0;
-		rLoc = 557;
+		rLoc = 612;
 		rType = 0;
 		vrLen = 721;
 		vrLoc = 40;
@@ -1530,7 +1713,7 @@
 		fRef = 3B6AC15112D12ED200B5A886 /* clKLTFeatureExtract.cpp */;
 		name = "clKLTFeatureExtract.cpp: 151";
 		rLen = 0;
-		rLoc = 4252;
+		rLoc = 4697;
 		rType = 0;
 		vrLen = 863;
 		vrLoc = 3516;
@@ -1540,7 +1723,7 @@
 		fRef = 3B6AC15112D12ED200B5A886 /* clKLTFeatureExtract.cpp */;
 		name = "clKLTFeatureExtract.cpp: 151";
 		rLen = 0;
-		rLoc = 4253;
+		rLoc = 4698;
 		rType = 0;
 		vrLen = 701;
 		vrLoc = 3682;
@@ -1550,7 +1733,7 @@
 		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
 		name = "kltFeatureExtract.cl: 5";
 		rLen = 0;
-		rLoc = 611;
+		rLoc = 662;
 		rType = 0;
 		vrLen = 1401;
 		vrLoc = 0;
@@ -1560,7 +1743,7 @@
 		fRef = 3B6AC15112D12ED200B5A886 /* clKLTFeatureExtract.cpp */;
 		name = "clKLTFeatureExtract.cpp: 151";
 		rLen = 0;
-		rLoc = 4253;
+		rLoc = 4698;
 		rType = 0;
 		vrLen = 1142;
 		vrLoc = 3241;
@@ -1570,7 +1753,7 @@
 		fRef = 3B6AC15112D12ED200B5A886 /* clKLTFeatureExtract.cpp */;
 		name = "clKLTFeatureExtract.cpp: 103";
 		rLen = 0;
-		rLoc = 2675;
+		rLoc = 2866;
 		rType = 0;
 		vrLen = 1277;
 		vrLoc = 2298;
@@ -1580,7 +1763,7 @@
 		fRef = 3B6AC15112D12ED200B5A886 /* clKLTFeatureExtract.cpp */;
 		name = "clKLTFeatureExtract.cpp: 103";
 		rLen = 0;
-		rLoc = 2675;
+		rLoc = 2866;
 		rType = 0;
 		vrLen = 1616;
 		vrLoc = 2116;
@@ -1590,7 +1773,7 @@
 		fRef = 3B6AC15112D12ED200B5A886 /* clKLTFeatureExtract.cpp */;
 		name = "clKLTFeatureExtract.cpp: 136";
 		rLen = 0;
-		rLoc = 3654;
+		rLoc = 3845;
 		rType = 0;
 		vrLen = 773;
 		vrLoc = 3570;
@@ -1600,7 +1783,7 @@
 		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
 		name = "main.cpp: 30";
 		rLen = 0;
-		rLoc = 874;
+		rLoc = 936;
 		rType = 0;
 		vrLen = 630;
 		vrLoc = 540;
@@ -1610,7 +1793,7 @@
 		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
 		name = "main.cpp: 27";
 		rLen = 0;
-		rLoc = 802;
+		rLoc = 864;
 		rType = 0;
 		vrLen = 525;
 		vrLoc = 645;
@@ -1620,7 +1803,7 @@
 		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
 		name = "main.cpp: 27";
 		rLen = 0;
-		rLoc = 802;
+		rLoc = 864;
 		rType = 0;
 		vrLen = 578;
 		vrLoc = 592;
@@ -1630,7 +1813,7 @@
 		fRef = 3B6AC15112D12ED200B5A886 /* clKLTFeatureExtract.cpp */;
 		name = "clKLTFeatureExtract.cpp: 103";
 		rLen = 0;
-		rLoc = 2675;
+		rLoc = 2866;
 		rType = 0;
 		vrLen = 1616;
 		vrLoc = 2116;
@@ -1640,7 +1823,7 @@
 		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
 		name = "main.cpp: 27";
 		rLen = 0;
-		rLoc = 802;
+		rLoc = 864;
 		rType = 0;
 		vrLen = 1078;
 		vrLoc = 92;
@@ -1650,7 +1833,7 @@
 		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
 		name = "main.cpp: 27";
 		rLen = 0;
-		rLoc = 802;
+		rLoc = 864;
 		rType = 0;
 		vrLen = 630;
 		vrLoc = 540;
@@ -1670,7 +1853,7 @@
 		fRef = 3B6AC15112D12ED200B5A886 /* clKLTFeatureExtract.cpp */;
 		name = "clKLTFeatureExtract.cpp: 105";
 		rLen = 0;
-		rLoc = 2878;
+		rLoc = 3069;
 		rType = 0;
 		vrLen = 1307;
 		vrLoc = 2304;
@@ -1699,7 +1882,7 @@
 		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
 		name = "main.cpp: 27";
 		rLen = 0;
-		rLoc = 802;
+		rLoc = 864;
 		rType = 0;
 		vrLen = 1078;
 		vrLoc = 92;
@@ -1729,7 +1912,7 @@
 		fRef = 3B6AC15112D12ED200B5A886 /* clKLTFeatureExtract.cpp */;
 		name = "clKLTFeatureExtract.cpp: 105";
 		rLen = 0;
-		rLoc = 2878;
+		rLoc = 3069;
 		rType = 0;
 		vrLen = 1307;
 		vrLoc = 2304;
@@ -1739,7 +1922,7 @@
 		fRef = 3B6AC15112D12ED200B5A886 /* clKLTFeatureExtract.cpp */;
 		name = "clKLTFeatureExtract.cpp: 106";
 		rLen = 0;
-		rLoc = 2950;
+		rLoc = 3141;
 		rType = 0;
 		vrLen = 1144;
 		vrLoc = 2461;
@@ -1759,7 +1942,7 @@
 		fRef = 3B6AC15112D12ED200B5A886 /* clKLTFeatureExtract.cpp */;
 		name = "clKLTFeatureExtract.cpp: 106";
 		rLen = 0;
-		rLoc = 2950;
+		rLoc = 3141;
 		rType = 0;
 		vrLen = 1725;
 		vrLoc = 2119;
@@ -1769,7 +1952,7 @@
 		fRef = 3B6AC15112D12ED200B5A886 /* clKLTFeatureExtract.cpp */;
 		name = "clKLTFeatureExtract.cpp: 106";
 		rLen = 0;
-		rLoc = 2950;
+		rLoc = 3141;
 		rType = 0;
 		vrLen = 1184;
 		vrLoc = 2461;
@@ -1779,7 +1962,7 @@
 		fRef = 3B6AC15112D12ED200B5A886 /* clKLTFeatureExtract.cpp */;
 		name = "clKLTFeatureExtract.cpp: 102";
 		rLen = 0;
-		rLoc = 2590;
+		rLoc = 2781;
 		rType = 0;
 		vrLen = 1093;
 		vrLoc = 2547;
@@ -1789,7 +1972,7 @@
 		fRef = 3B6AC15112D12ED200B5A886 /* clKLTFeatureExtract.cpp */;
 		name = "clKLTFeatureExtract.cpp: 102";
 		rLen = 0;
-		rLoc = 2590;
+		rLoc = 2781;
 		rType = 0;
 		vrLen = 1720;
 		vrLoc = 2119;
@@ -1799,7 +1982,7 @@
 		fRef = 3B6AC15112D12ED200B5A886 /* clKLTFeatureExtract.cpp */;
 		name = "clKLTFeatureExtract.cpp: 102";
 		rLen = 8;
-		rLoc = 2582;
+		rLoc = 2773;
 		rType = 0;
 		vrLen = 1180;
 		vrLoc = 2547;
@@ -1809,7 +1992,7 @@
 		fRef = 3B6AC15112D12ED200B5A886 /* clKLTFeatureExtract.cpp */;
 		name = "clKLTFeatureExtract.cpp: 102";
 		rLen = 0;
-		rLoc = 2620;
+		rLoc = 2811;
 		rType = 0;
 		vrLen = 1027;
 		vrLoc = 2698;
@@ -1819,7 +2002,7 @@
 		fRef = 3B6AC15112D12ED200B5A886 /* clKLTFeatureExtract.cpp */;
 		name = "clKLTFeatureExtract.cpp: 102";
 		rLen = 0;
-		rLoc = 2620;
+		rLoc = 2811;
 		rType = 0;
 		vrLen = 1723;
 		vrLoc = 2119;
@@ -1829,7 +2012,7 @@
 		fRef = 3B6AC15112D12ED200B5A886 /* clKLTFeatureExtract.cpp */;
 		name = "clKLTFeatureExtract.cpp: 106";
 		rLen = 0;
-		rLoc = 2913;
+		rLoc = 3104;
 		rType = 0;
 		vrLen = 921;
 		vrLoc = 2848;
@@ -1839,7 +2022,7 @@
 		fRef = 3B6AC15112D12ED200B5A886 /* clKLTFeatureExtract.cpp */;
 		name = "clKLTFeatureExtract.cpp: 106";
 		rLen = 0;
-		rLoc = 2913;
+		rLoc = 3104;
 		rType = 0;
 		vrLen = 1732;
 		vrLoc = 2119;
@@ -1849,7 +2032,7 @@
 		fRef = 3B6AC15112D12ED200B5A886 /* clKLTFeatureExtract.cpp */;
 		name = "clKLTFeatureExtract.cpp: 106";
 		rLen = 0;
-		rLoc = 2913;
+		rLoc = 3104;
 		rType = 0;
 		vrLen = 846;
 		vrLoc = 2996;
@@ -1859,7 +2042,7 @@
 		fRef = 3B6AC15112D12ED200B5A886 /* clKLTFeatureExtract.cpp */;
 		name = "clKLTFeatureExtract.cpp: 106";
 		rLen = 0;
-		rLoc = 2913;
+		rLoc = 3104;
 		rType = 0;
 		vrLen = 1654;
 		vrLoc = 2461;
@@ -1869,7 +2052,7 @@
 		fRef = 3B6AC15112D12ED200B5A886 /* clKLTFeatureExtract.cpp */;
 		name = "clKLTFeatureExtract.cpp: 106";
 		rLen = 0;
-		rLoc = 2913;
+		rLoc = 3104;
 		rType = 0;
 		vrLen = 967;
 		vrLoc = 2759;
@@ -1879,7 +2062,7 @@
 		fRef = 3B6AC15112D12ED200B5A886 /* clKLTFeatureExtract.cpp */;
 		name = "clKLTFeatureExtract.cpp: 106";
 		rLen = 0;
-		rLoc = 2913;
+		rLoc = 3104;
 		rType = 0;
 		vrLen = 1001;
 		vrLoc = 2759;
@@ -1889,7 +2072,7 @@
 		fRef = 3B6AC15112D12ED200B5A886 /* clKLTFeatureExtract.cpp */;
 		name = "clKLTFeatureExtract.cpp: 106";
 		rLen = 0;
-		rLoc = 2913;
+		rLoc = 3104;
 		rType = 0;
 		vrLen = 1021;
 		vrLoc = 2848;
@@ -1899,7 +2082,7 @@
 		fRef = 3B6AC15112D12ED200B5A886 /* clKLTFeatureExtract.cpp */;
 		name = "clKLTFeatureExtract.cpp: 106";
 		rLen = 0;
-		rLoc = 2913;
+		rLoc = 3104;
 		rType = 0;
 		vrLen = 923;
 		vrLoc = 2996;
@@ -1909,7 +2092,7 @@
 		fRef = 3B6AC15112D12ED200B5A886 /* clKLTFeatureExtract.cpp */;
 		name = "clKLTFeatureExtract.cpp: 106";
 		rLen = 0;
-		rLoc = 2913;
+		rLoc = 3104;
 		rType = 0;
 		vrLen = 945;
 		vrLoc = 2996;
@@ -1919,7 +2102,7 @@
 		fRef = 3B6AC15112D12ED200B5A886 /* clKLTFeatureExtract.cpp */;
 		name = "clKLTFeatureExtract.cpp: 106";
 		rLen = 0;
-		rLoc = 2913;
+		rLoc = 3104;
 		rType = 0;
 		vrLen = 910;
 		vrLoc = 2996;
@@ -1929,7 +2112,7 @@
 		fRef = 3B6AC15112D12ED200B5A886 /* clKLTFeatureExtract.cpp */;
 		name = "clKLTFeatureExtract.cpp: 106";
 		rLen = 0;
-		rLoc = 2913;
+		rLoc = 3104;
 		rType = 0;
 		vrLen = 844;
 		vrLoc = 2996;
@@ -1939,7 +2122,7 @@
 		fRef = 3B6AC15112D12ED200B5A886 /* clKLTFeatureExtract.cpp */;
 		name = "clKLTFeatureExtract.cpp: 106";
 		rLen = 0;
-		rLoc = 2913;
+		rLoc = 3104;
 		rType = 0;
 		vrLen = 841;
 		vrLoc = 2996;
@@ -1949,7 +2132,7 @@
 		fRef = 3B6AC15112D12ED200B5A886 /* clKLTFeatureExtract.cpp */;
 		name = "clKLTFeatureExtract.cpp: 106";
 		rLen = 0;
-		rLoc = 2913;
+		rLoc = 3104;
 		rType = 0;
 		vrLen = 834;
 		vrLoc = 3077;
@@ -1959,7 +2142,7 @@
 		fRef = 3B6AC15112D12ED200B5A886 /* clKLTFeatureExtract.cpp */;
 		name = "clKLTFeatureExtract.cpp: 108";
 		rLen = 0;
-		rLoc = 2913;
+		rLoc = 3104;
 		rType = 0;
 		vrLen = 724;
 		vrLoc = 3340;
@@ -1969,7 +2152,7 @@
 		fRef = 3B6AC15112D12ED200B5A886 /* clKLTFeatureExtract.cpp */;
 		name = "clKLTFeatureExtract.cpp: 108";
 		rLen = 0;
-		rLoc = 2913;
+		rLoc = 3104;
 		rType = 0;
 		vrLen = 777;
 		vrLoc = 3079;
@@ -1979,7 +2162,7 @@
 		fRef = 3B6AC15112D12ED200B5A886 /* clKLTFeatureExtract.cpp */;
 		name = "clKLTFeatureExtract.cpp: 102";
 		rLen = 0;
-		rLoc = 2579;
+		rLoc = 2770;
 		rType = 0;
 		vrLen = 1524;
 		vrLoc = 2097;
@@ -1989,7 +2172,7 @@
 		fRef = 3B6AC15112D12ED200B5A886 /* clKLTFeatureExtract.cpp */;
 		name = "clKLTFeatureExtract.cpp: 102";
 		rLen = 0;
-		rLoc = 2579;
+		rLoc = 2770;
 		rType = 0;
 		vrLen = 1074;
 		vrLoc = 2547;
@@ -2039,7 +2222,7 @@
 		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
 		name = "kltFeatureExtract.cl: 5";
 		rLen = 0;
-		rLoc = 611;
+		rLoc = 662;
 		rType = 0;
 		vrLen = 1097;
 		vrLoc = 0;
@@ -2049,7 +2232,7 @@
 		fRef = 3B6AC15112D12ED200B5A886 /* clKLTFeatureExtract.cpp */;
 		name = "clKLTFeatureExtract.cpp: 102";
 		rLen = 0;
-		rLoc = 2579;
+		rLoc = 2770;
 		rType = 0;
 		vrLen = 865;
 		vrLoc = 3856;
@@ -2059,7 +2242,7 @@
 		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
 		name = "main.cpp: 27";
 		rLen = 0;
-		rLoc = 802;
+		rLoc = 864;
 		rType = 0;
 		vrLen = 630;
 		vrLoc = 540;
@@ -2069,7 +2252,7 @@
 		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
 		name = "main.cpp: 28";
 		rLen = 0;
-		rLoc = 814;
+		rLoc = 876;
 		rType = 0;
 		vrLen = 578;
 		vrLoc = 592;
@@ -2079,7 +2262,7 @@
 		fRef = 3B6AC15112D12ED200B5A886 /* clKLTFeatureExtract.cpp */;
 		name = "clKLTFeatureExtract.cpp: 102";
 		rLen = 0;
-		rLoc = 2579;
+		rLoc = 2770;
 		rType = 0;
 		vrLen = 1524;
 		vrLoc = 2097;
@@ -2089,7 +2272,7 @@
 		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
 		name = "main.cpp: 30";
 		rLen = 0;
-		rLoc = 874;
+		rLoc = 936;
 		rType = 0;
 		vrLen = 1074;
 		vrLoc = 92;
@@ -2099,7 +2282,7 @@
 		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
 		name = "main.cpp: 30";
 		rLen = 0;
-		rLoc = 874;
+		rLoc = 936;
 		rType = 0;
 		vrLen = 626;
 		vrLoc = 540;
@@ -2109,7 +2292,7 @@
 		fRef = 3B6AC15112D12ED200B5A886 /* clKLTFeatureExtract.cpp */;
 		name = "clKLTFeatureExtract.cpp: 102";
 		rLen = 0;
-		rLoc = 2579;
+		rLoc = 2770;
 		rType = 0;
 		vrLen = 865;
 		vrLoc = 3856;
@@ -2119,7 +2302,7 @@
 		fRef = 3B6AC15112D12ED200B5A886 /* clKLTFeatureExtract.cpp */;
 		name = "clKLTFeatureExtract.cpp: 102";
 		rLen = 0;
-		rLoc = 2579;
+		rLoc = 2770;
 		rType = 0;
 		vrLen = 701;
 		vrLoc = 4022;
@@ -2129,7 +2312,7 @@
 		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
 		name = "main.cpp: 30";
 		rLen = 0;
-		rLoc = 874;
+		rLoc = 936;
 		rType = 0;
 		vrLen = 1074;
 		vrLoc = 92;
@@ -2139,7 +2322,7 @@
 		fRef = 3B6AC15112D12ED200B5A886 /* clKLTFeatureExtract.cpp */;
 		name = "clKLTFeatureExtract.cpp: 102";
 		rLen = 0;
-		rLoc = 2579;
+		rLoc = 2770;
 		rType = 0;
 		vrLen = 1142;
 		vrLoc = 3581;
@@ -2149,7 +2332,7 @@
 		fRef = 3B6AC15112D12ED200B5A886 /* clKLTFeatureExtract.cpp */;
 		name = "clKLTFeatureExtract.cpp: 157";
 		rLen = 16;
-		rLoc = 4259;
+		rLoc = 4704;
 		rType = 0;
 		vrLen = 793;
 		vrLoc = 3927;
@@ -2159,7 +2342,7 @@
 		fRef = 3B6AC15012D12ED200B5A886 /* clKLTFeatureExtract.h */;
 		name = "clKLTFeatureExtract.h: 25";
 		rLen = 0;
-		rLoc = 557;
+		rLoc = 612;
 		rType = 0;
 		vrLen = 721;
 		vrLoc = 40;
@@ -2179,7 +2362,7 @@
 		fRef = 3B6AC15112D12ED200B5A886 /* clKLTFeatureExtract.cpp */;
 		name = "clKLTFeatureExtract.cpp: 157";
 		rLen = 0;
-		rLoc = 4311;
+		rLoc = 4756;
 		rType = 0;
 		vrLen = 793;
 		vrLoc = 3925;
@@ -2189,7 +2372,7 @@
 		fRef = 3B6AC15112D12ED200B5A886 /* clKLTFeatureExtract.cpp */;
 		name = "clKLTFeatureExtract.cpp: 157";
 		rLen = 0;
-		rLoc = 4296;
+		rLoc = 4741;
 		rType = 0;
 		vrLen = 794;
 		vrLoc = 3927;
@@ -2209,7 +2392,7 @@
 		fRef = 3B6AC15112D12ED200B5A886 /* clKLTFeatureExtract.cpp */;
 		name = "clKLTFeatureExtract.cpp: 157";
 		rLen = 0;
-		rLoc = 4296;
+		rLoc = 4741;
 		rType = 0;
 		vrLen = 796;
 		vrLoc = 3925;
@@ -2219,7 +2402,7 @@
 		fRef = 3B6AC15112D12ED200B5A886 /* clKLTFeatureExtract.cpp */;
 		name = "clKLTFeatureExtract.cpp: 159";
 		rLen = 0;
-		rLoc = 4309;
+		rLoc = 4754;
 		rType = 0;
 		vrLen = 806;
 		vrLoc = 3964;
@@ -2229,7 +2412,7 @@
 		fRef = 3B6AC15112D12ED200B5A886 /* clKLTFeatureExtract.cpp */;
 		name = "clKLTFeatureExtract.cpp: 156";
 		rLen = 0;
-		rLoc = 4183;
+		rLoc = 4628;
 		rType = 0;
 		vrLen = 801;
 		vrLoc = 3964;
@@ -2269,7 +2452,7 @@
 		fRef = 3B6AC15112D12ED200B5A886 /* clKLTFeatureExtract.cpp */;
 		name = "clKLTFeatureExtract.cpp: 156";
 		rLen = 0;
-		rLoc = 4183;
+		rLoc = 4628;
 		rType = 0;
 		vrLen = 801;
 		vrLoc = 3964;
@@ -2279,7 +2462,7 @@
 		fRef = 3B6AC15112D12ED200B5A886 /* clKLTFeatureExtract.cpp */;
 		name = "clKLTFeatureExtract.cpp: 158";
 		rLen = 0;
-		rLoc = 4351;
+		rLoc = 4796;
 		rType = 0;
 		vrLen = 785;
 		vrLoc = 3964;
@@ -2289,7 +2472,7 @@
 		fRef = 3B6AC15112D12ED200B5A886 /* clKLTFeatureExtract.cpp */;
 		name = "clKLTFeatureExtract.cpp: 158";
 		rLen = 0;
-		rLoc = 4351;
+		rLoc = 4796;
 		rType = 0;
 		vrLen = 785;
 		vrLoc = 3964;
@@ -2348,7 +2531,7 @@
 		fRef = 3B6AC15112D12ED200B5A886 /* clKLTFeatureExtract.cpp */;
 		name = "clKLTFeatureExtract.cpp: 158";
 		rLen = 0;
-		rLoc = 4351;
+		rLoc = 4796;
 		rType = 0;
 		vrLen = 822;
 		vrLoc = 3927;
@@ -2358,7 +2541,7 @@
 		fRef = 3B6AC15112D12ED200B5A886 /* clKLTFeatureExtract.cpp */;
 		name = "clKLTFeatureExtract.cpp: 159";
 		rLen = 0;
-		rLoc = 4351;
+		rLoc = 4796;
 		rType = 0;
 		vrLen = 751;
 		vrLoc = 4022;
@@ -2389,7 +2572,7 @@
 		fRef = 3B6AC15112D12ED200B5A886 /* clKLTFeatureExtract.cpp */;
 		fallbackIsa = XCBuildMessageTextBookmark;
 		rLen = 1;
-		rLoc = 155;
+		rLoc = 165;
 		rType = 1;
 	};
 	3B6AC66112D1AAAA00B5A886 /* PBXTextBookmark */ = {
@@ -2397,7 +2580,7 @@
 		fRef = 3B6AC15112D12ED200B5A886 /* clKLTFeatureExtract.cpp */;
 		name = "clKLTFeatureExtract.cpp: 159";
 		rLen = 0;
-		rLoc = 4252;
+		rLoc = 4697;
 		rType = 0;
 		vrLen = 798;
 		vrLoc = 3964;
@@ -2407,7 +2590,7 @@
 		fRef = 3B6AC15112D12ED200B5A886 /* clKLTFeatureExtract.cpp */;
 		name = "clKLTFeatureExtract.cpp: 156";
 		rLen = 0;
-		rLoc = 4054;
+		rLoc = 4499;
 		rType = 0;
 		vrLen = 760;
 		vrLoc = 4022;
@@ -2417,7 +2600,7 @@
 		fRef = 3B6AC15112D12ED200B5A886 /* clKLTFeatureExtract.cpp */;
 		name = "clKLTFeatureExtract.cpp: 156";
 		rLen = 0;
-		rLoc = 4081;
+		rLoc = 4526;
 		rType = 0;
 		vrLen = 760;
 		vrLoc = 4022;
@@ -2427,7 +2610,7 @@
 		fRef = 3B6AC15112D12ED200B5A886 /* clKLTFeatureExtract.cpp */;
 		name = "clKLTFeatureExtract.cpp: 156";
 		rLen = 0;
-		rLoc = 4081;
+		rLoc = 4526;
 		rType = 0;
 		vrLen = 760;
 		vrLoc = 4022;
@@ -2437,7 +2620,7 @@
 		fRef = 3B6AC15112D12ED200B5A886 /* clKLTFeatureExtract.cpp */;
 		name = "clKLTFeatureExtract.cpp: 156";
 		rLen = 0;
-		rLoc = 4054;
+		rLoc = 4499;
 		rType = 0;
 		vrLen = 757;
 		vrLoc = 4022;
@@ -2447,7 +2630,7 @@
 		fRef = 3B6AC15112D12ED200B5A886 /* clKLTFeatureExtract.cpp */;
 		name = "clKLTFeatureExtract.cpp: 156";
 		rLen = 0;
-		rLoc = 4082;
+		rLoc = 4527;
 		rType = 0;
 		vrLen = 775;
 		vrLoc = 4022;
@@ -2457,7 +2640,7 @@
 		fRef = 3B6AC15112D12ED200B5A886 /* clKLTFeatureExtract.cpp */;
 		name = "clKLTFeatureExtract.cpp: 156";
 		rLen = 0;
-		rLoc = 4081;
+		rLoc = 4526;
 		rType = 0;
 		vrLen = 764;
 		vrLoc = 4022;
@@ -2477,7 +2660,7 @@
 		fRef = 3B6AC15112D12ED200B5A886 /* clKLTFeatureExtract.cpp */;
 		name = "clKLTFeatureExtract.cpp: 156";
 		rLen = 0;
-		rLoc = 4081;
+		rLoc = 4526;
 		rType = 0;
 		vrLen = 771;
 		vrLoc = 4022;
@@ -2487,7 +2670,7 @@
 		fRef = 3B6AC15112D12ED200B5A886 /* clKLTFeatureExtract.cpp */;
 		name = "clKLTFeatureExtract.cpp: 156";
 		rLen = 0;
-		rLoc = 4082;
+		rLoc = 4527;
 		rType = 0;
 		vrLen = 775;
 		vrLoc = 4022;
@@ -2507,7 +2690,7 @@
 		fRef = 3B6AC15112D12ED200B5A886 /* clKLTFeatureExtract.cpp */;
 		name = "clKLTFeatureExtract.cpp: 156";
 		rLen = 0;
-		rLoc = 4082;
+		rLoc = 4527;
 		rType = 0;
 		vrLen = 775;
 		vrLoc = 4022;
@@ -2517,7 +2700,7 @@
 		fRef = 3B6AC15112D12ED200B5A886 /* clKLTFeatureExtract.cpp */;
 		name = "clKLTFeatureExtract.cpp: 160";
 		rLen = 0;
-		rLoc = 4352;
+		rLoc = 4797;
 		rType = 0;
 		vrLen = 702;
 		vrLoc = 4022;
@@ -2537,7 +2720,7 @@
 		fRef = 3B6AC15112D12ED200B5A886 /* clKLTFeatureExtract.cpp */;
 		name = "clKLTFeatureExtract.cpp: 160";
 		rLen = 0;
-		rLoc = 4352;
+		rLoc = 4797;
 		rType = 0;
 		vrLen = 760;
 		vrLoc = 3964;
@@ -2547,7 +2730,7 @@
 		fRef = 3B6AC15112D12ED200B5A886 /* clKLTFeatureExtract.cpp */;
 		name = "clKLTFeatureExtract.cpp: 159";
 		rLen = 16;
-		rLoc = 4259;
+		rLoc = 4704;
 		rType = 0;
 		vrLen = 806;
 		vrLoc = 3964;
@@ -2557,7 +2740,7 @@
 		fRef = 3B6AC15112D12ED200B5A886 /* clKLTFeatureExtract.cpp */;
 		name = "clKLTFeatureExtract.cpp: 158";
 		rLen = 0;
-		rLoc = 4183;
+		rLoc = 4628;
 		rType = 0;
 		vrLen = 758;
 		vrLoc = 4064;
@@ -2567,7 +2750,7 @@
 		fRef = 3B6AC15112D12ED200B5A886 /* clKLTFeatureExtract.cpp */;
 		name = "clKLTFeatureExtract.cpp: 158";
 		rLen = 0;
-		rLoc = 4183;
+		rLoc = 4628;
 		rType = 0;
 		vrLen = 1203;
 		vrLoc = 3621;
@@ -2605,7 +2788,7 @@
 		fRef = 3B6AC15112D12ED200B5A886 /* clKLTFeatureExtract.cpp */;
 		name = "clKLTFeatureExtract.cpp: 158";
 		rLen = 0;
-		rLoc = 4183;
+		rLoc = 4628;
 		rType = 0;
 		vrLen = 760;
 		vrLoc = 4064;
@@ -2615,7 +2798,7 @@
 		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
 		name = "main.cpp: 35";
 		rLen = 0;
-		rLoc = 1102;
+		rLoc = 1166;
 		rType = 0;
 		vrLen = 722;
 		vrLoc = 434;
@@ -2625,7 +2808,7 @@
 		fRef = 3B6AC15112D12ED200B5A886 /* clKLTFeatureExtract.cpp */;
 		name = "clKLTFeatureExtract.cpp: 158";
 		rLen = 0;
-		rLoc = 4183;
+		rLoc = 4628;
 		rType = 0;
 		vrLen = 802;
 		vrLoc = 4022;
@@ -2635,7 +2818,7 @@
 		fRef = 3B6AC15112D12ED200B5A886 /* clKLTFeatureExtract.cpp */;
 		name = "clKLTFeatureExtract.cpp: 108";
 		rLen = 0;
-		rLoc = 2944;
+		rLoc = 3135;
 		rType = 0;
 		vrLen = 695;
 		vrLoc = 4117;
@@ -2645,7 +2828,7 @@
 		fRef = 3B6AC15112D12ED200B5A886 /* clKLTFeatureExtract.cpp */;
 		name = "clKLTFeatureExtract.cpp: 108";
 		rLen = 0;
-		rLoc = 2944;
+		rLoc = 3135;
 		rType = 0;
 		vrLen = 1203;
 		vrLoc = 3609;
@@ -2682,7 +2865,7 @@
 		fRef = 3B6AC15012D12ED200B5A886 /* clKLTFeatureExtract.h */;
 		name = "clKLTFeatureExtract.h: 25";
 		rLen = 0;
-		rLoc = 557;
+		rLoc = 612;
 		rType = 0;
 		vrLen = 688;
 		vrLoc = 75;
@@ -2692,7 +2875,7 @@
 		fRef = 3B6AC15112D12ED200B5A886 /* clKLTFeatureExtract.cpp */;
 		name = "clKLTFeatureExtract.cpp: 108";
 		rLen = 0;
-		rLoc = 2944;
+		rLoc = 3135;
 		rType = 0;
 		vrLen = 802;
 		vrLoc = 4010;
@@ -2702,7 +2885,7 @@
 		fRef = 3B6AC15112D12ED200B5A886 /* clKLTFeatureExtract.cpp */;
 		name = "clKLTFeatureExtract.cpp: 160";
 		rLen = 0;
-		rLoc = 4314;
+		rLoc = 4759;
 		rType = 0;
 		vrLen = 695;
 		vrLoc = 4111;
@@ -2712,7 +2895,7 @@
 		fRef = 3B6AC15112D12ED200B5A886 /* clKLTFeatureExtract.cpp */;
 		name = "clKLTFeatureExtract.cpp: 160";
 		rLen = 0;
-		rLoc = 4314;
+		rLoc = 4759;
 		rType = 0;
 		vrLen = 1203;
 		vrLoc = 3603;
@@ -2749,7 +2932,7 @@
 		fRef = 3B6AC15112D12ED200B5A886 /* clKLTFeatureExtract.cpp */;
 		name = "clKLTFeatureExtract.cpp: 160";
 		rLen = 0;
-		rLoc = 4314;
+		rLoc = 4759;
 		rType = 0;
 		vrLen = 695;
 		vrLoc = 4111;
@@ -2759,7 +2942,7 @@
 		fRef = 3B6AC15112D12ED200B5A886 /* clKLTFeatureExtract.cpp */;
 		name = "clKLTFeatureExtract.cpp: 160";
 		rLen = 0;
-		rLoc = 4311;
+		rLoc = 4756;
 		rType = 0;
 		vrLen = 689;
 		vrLoc = 4111;
@@ -2769,7 +2952,7 @@
 		fRef = 3B6AC15112D12ED200B5A886 /* clKLTFeatureExtract.cpp */;
 		name = "clKLTFeatureExtract.cpp: 160";
 		rLen = 0;
-		rLoc = 4311;
+		rLoc = 4756;
 		rType = 0;
 		vrLen = 754;
 		vrLoc = 4046;
@@ -2779,7 +2962,7 @@
 		fRef = 3B6AC15112D12ED200B5A886 /* clKLTFeatureExtract.cpp */;
 		name = "clKLTFeatureExtract.cpp: 160";
 		rLen = 0;
-		rLoc = 4311;
+		rLoc = 4756;
 		rType = 0;
 		vrLen = 1197;
 		vrLoc = 3603;
@@ -2789,7 +2972,7 @@
 		fRef = 3B6AC15112D12ED200B5A886 /* clKLTFeatureExtract.cpp */;
 		name = "clKLTFeatureExtract.cpp: 160";
 		rLen = 0;
-		rLoc = 4311;
+		rLoc = 4756;
 		rType = 0;
 		vrLen = 796;
 		vrLoc = 4004;
@@ -2799,7 +2982,7 @@
 		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
 		name = "kltFeatureExtract.cl: 5";
 		rLen = 0;
-		rLoc = 611;
+		rLoc = 662;
 		rType = 0;
 		vrLen = 1097;
 		vrLoc = 0;
@@ -2809,7 +2992,7 @@
 		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
 		name = "kltFeatureExtract.cl: 5";
 		rLen = 0;
-		rLoc = 226;
+		rLoc = 324;
 		rType = 0;
 		vrLen = 987;
 		vrLoc = 0;
@@ -2819,7 +3002,7 @@
 		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
 		name = "kltFeatureExtract.cl: 6";
 		rLen = 0;
-		rLoc = 226;
+		rLoc = 324;
 		rType = 0;
 		vrLen = 991;
 		vrLoc = 96;
@@ -2829,7 +3012,7 @@
 		fRef = 3B6AC15112D12ED200B5A886 /* clKLTFeatureExtract.cpp */;
 		name = "clKLTFeatureExtract.cpp: 160";
 		rLen = 0;
-		rLoc = 4311;
+		rLoc = 4756;
 		rType = 0;
 		vrLen = 1197;
 		vrLoc = 3603;
@@ -2839,7 +3022,7 @@
 		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
 		name = "kltFeatureExtract.cl: 6";
 		rLen = 0;
-		rLoc = 226;
+		rLoc = 324;
 		rType = 0;
 		vrLen = 1510;
 		vrLoc = 0;
@@ -2876,7 +3059,7 @@
 		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
 		name = "kltFeatureExtract.cl: 6";
 		rLen = 0;
-		rLoc = 226;
+		rLoc = 324;
 		rType = 0;
 		vrLen = 993;
 		vrLoc = 96;
@@ -2886,7 +3069,7 @@
 		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
 		name = "kltFeatureExtract.cl: 6";
 		rLen = 0;
-		rLoc = 226;
+		rLoc = 324;
 		rType = 0;
 		vrLen = 909;
 		vrLoc = 179;
@@ -2896,7 +3079,7 @@
 		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
 		name = "kltFeatureExtract.cl: 6";
 		rLen = 0;
-		rLoc = 226;
+		rLoc = 324;
 		rType = 0;
 		vrLen = 909;
 		vrLoc = 179;
@@ -2906,7 +3089,7 @@
 		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
 		name = "kltFeatureExtract.cl: 6";
 		rLen = 0;
-		rLoc = 226;
+		rLoc = 324;
 		rType = 0;
 		vrLen = 1509;
 		vrLoc = 0;
@@ -2943,7 +3126,7 @@
 		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
 		name = "kltFeatureExtract.cl: 6";
 		rLen = 0;
-		rLoc = 226;
+		rLoc = 324;
 		rType = 0;
 		vrLen = 964;
 		vrLoc = 179;
@@ -2953,7 +3136,7 @@
 		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
 		name = "kltFeatureExtract.cl: 8";
 		rLen = 0;
-		rLoc = 583;
+		rLoc = 634;
 		rType = 0;
 		vrLen = 934;
 		vrLoc = 217;
@@ -2963,7 +3146,7 @@
 		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
 		name = "kltFeatureExtract.cl: 8";
 		rLen = 0;
-		rLoc = 583;
+		rLoc = 634;
 		rType = 0;
 		vrLen = 1502;
 		vrLoc = 0;
@@ -3000,7 +3183,7 @@
 		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
 		name = "kltFeatureExtract.cl: 8";
 		rLen = 0;
-		rLoc = 583;
+		rLoc = 634;
 		rType = 0;
 		vrLen = 933;
 		vrLoc = 217;
@@ -3010,7 +3193,7 @@
 		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
 		name = "kltFeatureExtract.cl: 5";
 		rLen = 0;
-		rLoc = 226;
+		rLoc = 324;
 		rType = 0;
 		vrLen = 977;
 		vrLoc = 179;
@@ -3020,7 +3203,7 @@
 		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
 		name = "kltFeatureExtract.cl: 5";
 		rLen = 0;
-		rLoc = 226;
+		rLoc = 324;
 		rType = 0;
 		vrLen = 1508;
 		vrLoc = 0;
@@ -3047,7 +3230,7 @@
 		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
 		name = "kltFeatureExtract.cl: 5";
 		rLen = 0;
-		rLoc = 226;
+		rLoc = 324;
 		rType = 0;
 		vrLen = 977;
 		vrLoc = 179;
@@ -3067,7 +3250,7 @@
 		fRef = 3B6AC15112D12ED200B5A886 /* clKLTFeatureExtract.cpp */;
 		name = "clKLTFeatureExtract.cpp: 160";
 		rLen = 0;
-		rLoc = 4311;
+		rLoc = 4756;
 		rType = 0;
 		vrLen = 691;
 		vrLoc = 4109;
@@ -3077,7 +3260,7 @@
 		fRef = 3B6AC15112D12ED200B5A886 /* clKLTFeatureExtract.cpp */;
 		name = "clKLTFeatureExtract.cpp: 140";
 		rLen = 0;
-		rLoc = 3802;
+		rLoc = 3993;
 		rType = 0;
 		vrLen = 839;
 		vrLoc = 3603;
@@ -3087,7 +3270,7 @@
 		fRef = 3B6AC15112D12ED200B5A886 /* clKLTFeatureExtract.cpp */;
 		name = "clKLTFeatureExtract.cpp: 140";
 		rLen = 0;
-		rLoc = 3802;
+		rLoc = 3993;
 		rType = 0;
 		vrLen = 999;
 		vrLoc = 3533;
@@ -3134,7 +3317,7 @@
 		fRef = 3B6AC15112D12ED200B5A886 /* clKLTFeatureExtract.cpp */;
 		name = "clKLTFeatureExtract.cpp: 140";
 		rLen = 0;
-		rLoc = 3802;
+		rLoc = 3993;
 		rType = 0;
 		vrLen = 826;
 		vrLoc = 3456;
@@ -3144,7 +3327,7 @@
 		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
 		name = "kltFeatureExtract.cl: 5";
 		rLen = 0;
-		rLoc = 226;
+		rLoc = 324;
 		rType = 0;
 		vrLen = 1061;
 		vrLoc = 96;
@@ -3154,7 +3337,7 @@
 		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
 		name = "kltFeatureExtract.cl: 8";
 		rLen = 0;
-		rLoc = 583;
+		rLoc = 634;
 		rType = 0;
 		vrLen = 1028;
 		vrLoc = 96;
@@ -3174,7 +3357,7 @@
 		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
 		name = "kltFeatureExtract.cl: 8";
 		rLen = 0;
-		rLoc = 583;
+		rLoc = 634;
 		rType = 0;
 		vrLen = 1509;
 		vrLoc = 0;
@@ -3184,7 +3367,7 @@
 		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
 		name = "kltFeatureExtract.cl: 6";
 		rLen = 0;
-		rLoc = 226;
+		rLoc = 324;
 		rType = 0;
 		vrLen = 879;
 		vrLoc = 217;
@@ -3194,7 +3377,7 @@
 		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
 		name = "kltFeatureExtract.cl: 6";
 		rLen = 0;
-		rLoc = 226;
+		rLoc = 324;
 		rType = 0;
 		vrLen = 967;
 		vrLoc = 217;
@@ -3204,7 +3387,7 @@
 		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
 		name = "kltFeatureExtract.cl: 13";
 		rLen = 0;
-		rLoc = 1065;
+		rLoc = 1069;
 		rType = 0;
 		vrLen = 1560;
 		vrLoc = 0;
@@ -3214,7 +3397,7 @@
 		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
 		name = "kltFeatureExtract.cl: 13";
 		rLen = 0;
-		rLoc = 1065;
+		rLoc = 1069;
 		rType = 0;
 		vrLen = 1003;
 		vrLoc = 217;
@@ -3224,7 +3407,7 @@
 		fRef = 3B6AC15112D12ED200B5A886 /* clKLTFeatureExtract.cpp */;
 		name = "clKLTFeatureExtract.cpp: 140";
 		rLen = 0;
-		rLoc = 3802;
+		rLoc = 3993;
 		rType = 0;
 		vrLen = 773;
 		vrLoc = 3509;
@@ -3234,7 +3417,7 @@
 		fRef = 3B6AC15112D12ED200B5A886 /* clKLTFeatureExtract.cpp */;
 		name = "clKLTFeatureExtract.cpp: 129";
 		rLen = 0;
-		rLoc = 3388;
+		rLoc = 3579;
 		rType = 0;
 		vrLen = 723;
 		vrLoc = 3799;
@@ -3244,7 +3427,7 @@
 		fRef = 3B6AC15112D12ED200B5A886 /* clKLTFeatureExtract.cpp */;
 		name = "clKLTFeatureExtract.cpp: 129";
 		rLen = 0;
-		rLoc = 3388;
+		rLoc = 3579;
 		rType = 0;
 		vrLen = 755;
 		vrLoc = 3799;
@@ -3254,7 +3437,7 @@
 		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
 		name = "kltFeatureExtract.cl: 13";
 		rLen = 0;
-		rLoc = 1065;
+		rLoc = 1069;
 		rType = 0;
 		vrLen = 1560;
 		vrLoc = 0;
@@ -3264,7 +3447,7 @@
 		fRef = 3B6AC15112D12ED200B5A886 /* clKLTFeatureExtract.cpp */;
 		name = "clKLTFeatureExtract.cpp: 129";
 		rLen = 0;
-		rLoc = 3388;
+		rLoc = 3579;
 		rType = 0;
 		vrLen = 1203;
 		vrLoc = 3597;
@@ -3274,7 +3457,7 @@
 		fRef = 3B6AC15112D12ED200B5A886 /* clKLTFeatureExtract.cpp */;
 		name = "clKLTFeatureExtract.cpp: 129";
 		rLen = 0;
-		rLoc = 3388;
+		rLoc = 3579;
 		rType = 0;
 		vrLen = 893;
 		vrLoc = 1716;
@@ -3284,7 +3467,7 @@
 		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
 		name = "kltFeatureExtract.cl: 13";
 		rLen = 0;
-		rLoc = 1065;
+		rLoc = 1069;
 		rType = 0;
 		vrLen = 1002;
 		vrLoc = 217;
@@ -3294,7 +3477,7 @@
 		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
 		name = "kltFeatureExtract.cl: 12";
 		rLen = 0;
-		rLoc = 473;
+		rLoc = 343;
 		rType = 0;
 		vrLen = 843;
 		vrLoc = 96;
@@ -3304,7 +3487,7 @@
 		fRef = 3B6AC15112D12ED200B5A886 /* clKLTFeatureExtract.cpp */;
 		name = "clKLTFeatureExtract.cpp: 129";
 		rLen = 0;
-		rLoc = 3388;
+		rLoc = 3579;
 		rType = 0;
 		vrLen = 1203;
 		vrLoc = 3597;
@@ -3314,7 +3497,7 @@
 		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
 		name = "kltFeatureExtract.cl: 12";
 		rLen = 0;
-		rLoc = 473;
+		rLoc = 343;
 		rType = 0;
 		vrLen = 1358;
 		vrLoc = 0;
@@ -3361,7 +3544,7 @@
 		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
 		name = "kltFeatureExtract.cl: 12";
 		rLen = 0;
-		rLoc = 473;
+		rLoc = 343;
 		rType = 0;
 		vrLen = 894;
 		vrLoc = 96;
@@ -3371,7 +3554,7 @@
 		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
 		name = "kltFeatureExtract.cl: 11";
 		rLen = 0;
-		rLoc = 432;
+		rLoc = 343;
 		rType = 0;
 		vrLen = 783;
 		vrLoc = 179;
@@ -3381,7 +3564,7 @@
 		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
 		name = "kltFeatureExtract.cl: 11";
 		rLen = 0;
-		rLoc = 432;
+		rLoc = 343;
 		rType = 0;
 		vrLen = 1330;
 		vrLoc = 0;
@@ -3418,7 +3601,7 @@
 		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
 		name = "kltFeatureExtract.cl: 11";
 		rLen = 0;
-		rLoc = 432;
+		rLoc = 343;
 		rType = 0;
 		vrLen = 745;
 		vrLoc = 219;
@@ -3428,7 +3611,7 @@
 		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
 		name = "kltFeatureExtract.cl: 4";
 		rLen = 0;
-		rLoc = 226;
+		rLoc = 324;
 		rType = 0;
 		vrLen = 858;
 		vrLoc = 96;
@@ -3448,7 +3631,7 @@
 		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
 		name = "kltFeatureExtract.cl: 4";
 		rLen = 0;
-		rLoc = 226;
+		rLoc = 324;
 		rType = 0;
 		vrLen = 1324;
 		vrLoc = 0;
@@ -3458,7 +3641,7 @@
 		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
 		name = "kltFeatureExtract.cl: 10";
 		rLen = 0;
-		rLoc = 473;
+		rLoc = 343;
 		rType = 0;
 		vrLen = 890;
 		vrLoc = 96;
@@ -3468,7 +3651,7 @@
 		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
 		name = "kltFeatureExtract.cl: 11";
 		rLen = 0;
-		rLoc = 505;
+		rLoc = 343;
 		rType = 0;
 		vrLen = 1490;
 		vrLoc = 0;
@@ -3515,7 +3698,7 @@
 		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
 		name = "kltFeatureExtract.cl: 10";
 		rLen = 0;
-		rLoc = 473;
+		rLoc = 343;
 		rType = 0;
 		vrLen = 859;
 		vrLoc = 217;
@@ -3525,7 +3708,7 @@
 		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
 		name = "kltFeatureExtract.cl: 13";
 		rLen = 0;
-		rLoc = 570;
+		rLoc = 343;
 		rType = 0;
 		vrLen = 905;
 		vrLoc = 217;
@@ -3535,7 +3718,7 @@
 		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
 		name = "kltFeatureExtract.cl: 13";
 		rLen = 0;
-		rLoc = 570;
+		rLoc = 343;
 		rType = 0;
 		vrLen = 1463;
 		vrLoc = 0;
@@ -3572,7 +3755,7 @@
 		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
 		name = "kltFeatureExtract.cl: 13";
 		rLen = 0;
-		rLoc = 570;
+		rLoc = 343;
 		rType = 0;
 		vrLen = 944;
 		vrLoc = 217;
@@ -3582,7 +3765,7 @@
 		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
 		name = "kltFeatureExtract.cl: 13";
 		rLen = 0;
-		rLoc = 580;
+		rLoc = 631;
 		rType = 0;
 		vrLen = 948;
 		vrLoc = 219;
@@ -3592,7 +3775,7 @@
 		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
 		name = "kltFeatureExtract.cl: 13";
 		rLen = 0;
-		rLoc = 580;
+		rLoc = 631;
 		rType = 0;
 		vrLen = 1469;
 		vrLoc = 0;
@@ -3629,7 +3812,7 @@
 		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
 		name = "kltFeatureExtract.cl: 13";
 		rLen = 0;
-		rLoc = 580;
+		rLoc = 631;
 		rType = 0;
 		vrLen = 990;
 		vrLoc = 219;
@@ -3639,7 +3822,7 @@
 		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
 		name = "kltFeatureExtract.cl: 15";
 		rLen = 0;
-		rLoc = 580;
+		rLoc = 631;
 		rType = 0;
 		vrLen = 936;
 		vrLoc = 96;
@@ -3649,7 +3832,7 @@
 		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
 		name = "kltFeatureExtract.cl: 15";
 		rLen = 0;
-		rLoc = 580;
+		rLoc = 631;
 		rType = 0;
 		vrLen = 1451;
 		vrLoc = 0;
@@ -3686,7 +3869,7 @@
 		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
 		name = "kltFeatureExtract.cl: 15";
 		rLen = 0;
-		rLoc = 580;
+		rLoc = 631;
 		rType = 0;
 		vrLen = 987;
 		vrLoc = 96;
@@ -3696,7 +3879,7 @@
 		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
 		name = "kltFeatureExtract.cl: 6";
 		rLen = 0;
-		rLoc = 272;
+		rLoc = 343;
 		rType = 0;
 		vrLen = 905;
 		vrLoc = 179;
@@ -3706,7 +3889,7 @@
 		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
 		name = "kltFeatureExtract.cl: 6";
 		rLen = 0;
-		rLoc = 272;
+		rLoc = 343;
 		rType = 0;
 		vrLen = 939;
 		vrLoc = 179;
@@ -3716,7 +3899,7 @@
 		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
 		name = "kltFeatureExtract.cl: 6";
 		rLen = 0;
-		rLoc = 272;
+		rLoc = 343;
 		rType = 0;
 		vrLen = 896;
 		vrLoc = 64;
@@ -3736,7 +3919,7 @@
 		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
 		name = "kltFeatureExtract.cl: 1";
 		rLen = 0;
-		rLoc = 102;
+		rLoc = 103;
 		rType = 0;
 		vrLen = 1461;
 		vrLoc = 0;
@@ -3746,7 +3929,7 @@
 		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
 		name = "kltFeatureExtract.cl: 24";
 		rLen = 0;
-		rLoc = 859;
+		rLoc = 882;
 		rType = 0;
 		vrLen = 825;
 		vrLoc = 243;
@@ -3756,7 +3939,7 @@
 		fRef = 3B6AC15112D12ED200B5A886 /* clKLTFeatureExtract.cpp */;
 		name = "clKLTFeatureExtract.cpp: 129";
 		rLen = 0;
-		rLoc = 3388;
+		rLoc = 3579;
 		rType = 0;
 		vrLen = 812;
 		vrLoc = 1797;
@@ -3766,7 +3949,7 @@
 		fRef = 3B6AC15112D12ED200B5A886 /* clKLTFeatureExtract.cpp */;
 		name = "clKLTFeatureExtract.cpp: 160";
 		rLen = 0;
-		rLoc = 4286;
+		rLoc = 4731;
 		rType = 0;
 		vrLen = 689;
 		vrLoc = 4111;
@@ -3776,7 +3959,7 @@
 		fRef = 3B6AC15112D12ED200B5A886 /* clKLTFeatureExtract.cpp */;
 		name = "clKLTFeatureExtract.cpp: 160";
 		rLen = 0;
-		rLoc = 4286;
+		rLoc = 4731;
 		rType = 0;
 		vrLen = 754;
 		vrLoc = 4046;
@@ -3786,7 +3969,7 @@
 		fRef = 3B6AC15112D12ED200B5A886 /* clKLTFeatureExtract.cpp */;
 		name = "clKLTFeatureExtract.cpp: 155";
 		rLen = 0;
-		rLoc = 4286;
+		rLoc = 4731;
 		rType = 0;
 		vrLen = 716;
 		vrLoc = 3662;
@@ -3796,7 +3979,7 @@
 		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
 		name = "kltFeatureExtract.cl: 1";
 		rLen = 0;
-		rLoc = 102;
+		rLoc = 103;
 		rType = 0;
 		vrLen = 1068;
 		vrLoc = 0;
@@ -3806,7 +3989,7 @@
 		fRef = 3B6AC15112D12ED200B5A886 /* clKLTFeatureExtract.cpp */;
 		name = "clKLTFeatureExtract.cpp: 131";
 		rLen = 0;
-		rLoc = 3647;
+		rLoc = 3838;
 		rType = 0;
 		vrLen = 1079;
 		vrLoc = 2881;
@@ -3816,7 +3999,7 @@
 		fRef = 3B6AC15112D12ED200B5A886 /* clKLTFeatureExtract.cpp */;
 		name = "clKLTFeatureExtract.cpp: 135";
 		rLen = 0;
-		rLoc = 3800;
+		rLoc = 3991;
 		rType = 0;
 		vrLen = 792;
 		vrLoc = 3156;
@@ -3826,10 +4009,1795 @@
 		fRef = 3B6AC15112D12ED200B5A886 /* clKLTFeatureExtract.cpp */;
 		name = "clKLTFeatureExtract.cpp: 135";
 		rLen = 0;
-		rLoc = 3800;
+		rLoc = 3991;
 		rType = 0;
 		vrLen = 816;
 		vrLoc = 3156;
+	};
+	3B6AC75D12D1B76200B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B6AC15112D12ED200B5A886 /* clKLTFeatureExtract.cpp */;
+		name = "clKLTFeatureExtract.cpp: 135";
+		rLen = 0;
+		rLoc = 3991;
+		rType = 0;
+		vrLen = 982;
+		vrLoc = 3071;
+	};
+	3B6AC76012D1B84B00B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
+		name = "kltFeatureExtract.cl: 33";
+		rLen = 17;
+		rLoc = 1349;
+		rType = 0;
+		vrLen = 898;
+		vrLoc = 325;
+	};
+	3B6AC76112D1B84B00B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B6AC15112D12ED200B5A886 /* clKLTFeatureExtract.cpp */;
+		name = "clKLTFeatureExtract.cpp: 74";
+		rLen = 0;
+		rLoc = 2077;
+		rType = 0;
+		vrLen = 774;
+		vrLoc = 1517;
+	};
+	3B6AC76212D1B84B00B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B6AC15112D12ED200B5A886 /* clKLTFeatureExtract.cpp */;
+		name = "clKLTFeatureExtract.cpp: 100";
+		rLen = 0;
+		rLoc = 2875;
+		rType = 0;
+		vrLen = 992;
+		vrLoc = 2192;
+	};
+	3B6AC76312D1B85100B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B6AC15112D12ED200B5A886 /* clKLTFeatureExtract.cpp */;
+		name = "clKLTFeatureExtract.cpp: 100";
+		rLen = 0;
+		rLoc = 2875;
+		rType = 0;
+		vrLen = 992;
+		vrLoc = 2192;
+	};
+	3B6AC76512D1B86200B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B6AC15112D12ED200B5A886 /* clKLTFeatureExtract.cpp */;
+		name = "clKLTFeatureExtract.cpp: 100";
+		rLen = 0;
+		rLoc = 2875;
+		rType = 0;
+		vrLen = 1171;
+		vrLoc = 2137;
+	};
+	3B6AC76812D1B87E00B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B6AC15112D12ED200B5A886 /* clKLTFeatureExtract.cpp */;
+		name = "clKLTFeatureExtract.cpp: 100";
+		rLen = 0;
+		rLoc = 2880;
+		rType = 0;
+		vrLen = 921;
+		vrLoc = 2161;
+	};
+	3B6AC76B12D1B8B500B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B6AC15112D12ED200B5A886 /* clKLTFeatureExtract.cpp */;
+		name = "clKLTFeatureExtract.cpp: 100";
+		rLen = 0;
+		rLoc = 2880;
+		rType = 0;
+		vrLen = 979;
+		vrLoc = 2189;
+	};
+	3B6AC76C12D1B8C200B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B6AC15112D12ED200B5A886 /* clKLTFeatureExtract.cpp */;
+		name = "clKLTFeatureExtract.cpp: 103";
+		rLen = 0;
+		rLoc = 3045;
+		rType = 0;
+		vrLen = 1196;
+		vrLoc = 2033;
+	};
+	3B6AC77512D1B93000B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B6AC15012D12ED200B5A886 /* clKLTFeatureExtract.h */;
+		name = "clKLTFeatureExtract.h: 24";
+		rLen = 12;
+		rLoc = 586;
+		rType = 0;
+		vrLen = 699;
+		vrLoc = 75;
+	};
+	3B6AC77612D1B93000B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B6AC15112D12ED200B5A886 /* clKLTFeatureExtract.cpp */;
+		name = "clKLTFeatureExtract.cpp: 103";
+		rLen = 0;
+		rLoc = 3045;
+		rType = 0;
+		vrLen = 979;
+		vrLoc = 2189;
+	};
+	3B6AC77712D1B93000B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B6AC15112D12ED200B5A886 /* clKLTFeatureExtract.cpp */;
+		name = "clKLTFeatureExtract.cpp: 138";
+		rLen = 0;
+		rLoc = 4014;
+		rType = 0;
+		vrLen = 893;
+		vrLoc = 3345;
+	};
+	3B6AC77812D1B93800B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B6AC15112D12ED200B5A886 /* clKLTFeatureExtract.cpp */;
+		name = "clKLTFeatureExtract.cpp: 138";
+		rLen = 0;
+		rLoc = 4014;
+		rType = 0;
+		vrLen = 1154;
+		vrLoc = 3187;
+	};
+	3B6AC78312D1BA1D00B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
+		name = "main.cpp: 27";
+		rLen = 0;
+		rLoc = 860;
+		rType = 0;
+		vrLen = 896;
+		vrLoc = 204;
+	};
+	3B6AC78412D1BA1D00B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B6AC15112D12ED200B5A886 /* clKLTFeatureExtract.cpp */;
+		name = "clKLTFeatureExtract.cpp: 92";
+		rLen = 0;
+		rLoc = 2436;
+		rType = 0;
+		vrLen = 1010;
+		vrLoc = 2170;
+	};
+	3B6AC78512D1BA1D00B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B6AC15012D12ED200B5A886 /* clKLTFeatureExtract.h */;
+		name = "clKLTFeatureExtract.h: 16";
+		rLen = 0;
+		rLoc = 386;
+		rType = 0;
+		vrLen = 736;
+		vrLoc = 75;
+	};
+	3B6AC78612D1BA1D00B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
+		name = "kltFeatureExtract.cl: 33";
+		rLen = 17;
+		rLoc = 1349;
+		rType = 0;
+		vrLen = 898;
+		vrLoc = 325;
+	};
+	3B6AC78712D1BA1D00B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
+		name = "kltFeatureExtract.cl: 25";
+		rLen = 0;
+		rLoc = 927;
+		rType = 0;
+		vrLen = 798;
+		vrLoc = 274;
+	};
+	3B6AC78812D1BA2800B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B6AC15112D12ED200B5A886 /* clKLTFeatureExtract.cpp */;
+		name = "clKLTFeatureExtract.cpp: 139";
+		rLen = 0;
+		rLoc = 4014;
+		rType = 0;
+		vrLen = 1191;
+		vrLoc = 3308;
+	};
+	3B6AC78912D1BA2800B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
+		name = "kltFeatureExtract.cl: 25";
+		rLen = 0;
+		rLoc = 927;
+		rType = 0;
+		vrLen = 1226;
+		vrLoc = 0;
+	};
+	3B6AC78C12D1BA4100B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
+		name = "kltFeatureExtract.cl: 2";
+		rLen = 0;
+		rLoc = 200;
+		rType = 0;
+		vrLen = 951;
+		vrLoc = 105;
+	};
+	3B6AC78D12D1BAB900B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
+		name = "kltFeatureExtract.cl: 34";
+		rLen = 17;
+		rLoc = 1349;
+		rType = 0;
+		vrLen = 1325;
+		vrLoc = 0;
+	};
+	3B6AC79012D1BAC300B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
+		name = "kltFeatureExtract.cl: 34";
+		rLen = 17;
+		rLoc = 1349;
+		rType = 0;
+		vrLen = 973;
+		vrLoc = 105;
+	};
+	3B6AC79112D1BAC300B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B6AC15112D12ED200B5A886 /* clKLTFeatureExtract.cpp */;
+		name = "clKLTFeatureExtract.cpp: 92";
+		rLen = 0;
+		rLoc = 2436;
+		rType = 0;
+		vrLen = 1010;
+		vrLoc = 2170;
+	};
+	3B6AC79212D1BAC300B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B6AC15112D12ED200B5A886 /* clKLTFeatureExtract.cpp */;
+		name = "clKLTFeatureExtract.cpp: 74";
+		rLen = 0;
+		rLoc = 2067;
+		rType = 0;
+		vrLen = 708;
+		vrLoc = 1627;
+	};
+	3B6AC79312D1BACD00B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
+		name = "kltFeatureExtract.cl: 34";
+		rLen = 17;
+		rLoc = 1349;
+		rType = 0;
+		vrLen = 1325;
+		vrLoc = 0;
+	};
+	3B6AC79412D1BACD00B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B6AC15112D12ED200B5A886 /* clKLTFeatureExtract.cpp */;
+		name = "clKLTFeatureExtract.cpp: 74";
+		rLen = 0;
+		rLoc = 2067;
+		rType = 0;
+		vrLen = 1406;
+		vrLoc = 2419;
+	};
+	3B6AC79B12D1BBD700B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B3C3D4412CACD7F004168DC /* ConvolutionSeparable.cl */;
+		name = "ConvolutionSeparable.cl: 23";
+		rLen = 0;
+		rLoc = 569;
+		rType = 0;
+		vrLen = 601;
+		vrLoc = 522;
+	};
+	3B6AC79C12D1BBD700B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
+		name = "kltFeatureExtract.cl: 34";
+		rLen = 17;
+		rLoc = 1349;
+		rType = 0;
+		vrLen = 752;
+		vrLoc = 573;
+	};
+	3B6AC79D12D1BBD700B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B6AC15112D12ED200B5A886 /* clKLTFeatureExtract.cpp */;
+		name = "clKLTFeatureExtract.cpp: 23";
+		rLen = 0;
+		rLoc = 570;
+		rType = 0;
+		vrLen = 659;
+		vrLoc = 280;
+	};
+	3B6AC79E12D1BBD700B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B6AC15012D12ED200B5A886 /* clKLTFeatureExtract.h */;
+		name = "clKLTFeatureExtract.h: 26";
+		rLen = 10;
+		rLoc = 640;
+		rType = 0;
+		vrLen = 682;
+		vrLoc = 134;
+	};
+	3B6AC79F12D1BBD700B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B6AC15012D12ED200B5A886 /* clKLTFeatureExtract.h */;
+		name = "clKLTFeatureExtract.h: 14";
+		rLen = 0;
+		rLoc = 275;
+		rType = 0;
+		vrLen = 701;
+		vrLoc = 137;
+	};
+	3B6AC7A012D1BBE000B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B6AC15112D12ED200B5A886 /* clKLTFeatureExtract.cpp */;
+		name = "clKLTFeatureExtract.cpp: 75";
+		rLen = 0;
+		rLoc = 2067;
+		rType = 0;
+		vrLen = 1353;
+		vrLoc = 2555;
+	};
+	3B6AC7A112D1BBE000B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B6AC15012D12ED200B5A886 /* clKLTFeatureExtract.h */;
+		name = "clKLTFeatureExtract.h: 14";
+		rLen = 0;
+		rLoc = 275;
+		rType = 0;
+		vrLen = 838;
+		vrLoc = 0;
+	};
+	3B6AC7A612D1BC1400B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B6AC15012D12ED200B5A886 /* clKLTFeatureExtract.h */;
+		name = "clKLTFeatureExtract.h: 14";
+		rLen = 0;
+		rLoc = 275;
+		rType = 0;
+		vrLen = 704;
+		vrLoc = 134;
+	};
+	3B6AC7A712D1BC1400B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
+		name = "kltFeatureExtract.cl: 34";
+		rLen = 17;
+		rLoc = 1349;
+		rType = 0;
+		vrLen = 752;
+		vrLoc = 573;
+	};
+	3B6AC7A812D1BC1400B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3BFCFE3C12CAA7470018D111 /* cl2DConvolutionKernelSeparable.cpp */;
+		name = "cl2DConvolutionKernelSeparable.cpp: 114";
+		rLen = 258;
+		rLoc = 3183;
+		rType = 0;
+		vrLen = 821;
+		vrLoc = 1391;
+	};
+	3B6AC7A912D1BC1400B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B6AC15112D12ED200B5A886 /* clKLTFeatureExtract.cpp */;
+		name = "clKLTFeatureExtract.cpp: 23";
+		rLen = 0;
+		rLoc = 570;
+		rType = 0;
+		vrLen = 659;
+		vrLoc = 280;
+	};
+	3B6AC7AA12D1BC1400B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B6AC15112D12ED200B5A886 /* clKLTFeatureExtract.cpp */;
+		name = "clKLTFeatureExtract.cpp: 67";
+		rLen = 0;
+		rLoc = 1700;
+		rType = 0;
+		vrLen = 927;
+		vrLoc = 1179;
+	};
+	3B6AC7AB12D1BC1C00B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B6AC15012D12ED200B5A886 /* clKLTFeatureExtract.h */;
+		name = "clKLTFeatureExtract.h: 14";
+		rLen = 0;
+		rLoc = 275;
+		rType = 0;
+		vrLen = 838;
+		vrLoc = 0;
+	};
+	3B6AC7AC12D1BC1C00B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B6AC15112D12ED200B5A886 /* clKLTFeatureExtract.cpp */;
+		name = "clKLTFeatureExtract.cpp: 67";
+		rLen = 0;
+		rLoc = 1700;
+		rType = 0;
+		vrLen = 1310;
+		vrLoc = 1101;
+	};
+	3B6AC7AF12D1BE8400B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B6AC15112D12ED200B5A886 /* clKLTFeatureExtract.cpp */;
+		name = "clKLTFeatureExtract.cpp: 67";
+		rLen = 0;
+		rLoc = 1700;
+		rType = 0;
+		vrLen = 978;
+		vrLoc = 1179;
+	};
+	3B6AC7B012D1BE8400B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
+		name = "kltFeatureExtract.cl: 34";
+		rLen = 17;
+		rLoc = 1349;
+		rType = 0;
+		vrLen = 793;
+		vrLoc = 532;
+	};
+	3B6AC7B112D1BE8400B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
+		name = "kltFeatureExtract.cl: 48";
+		rLen = 0;
+		rLoc = 1919;
+		rType = 0;
+		vrLen = 788;
+		vrLoc = 961;
+	};
+	3B6AC7B212D1BE8D00B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B6AC15112D12ED200B5A886 /* clKLTFeatureExtract.cpp */;
+		name = "clKLTFeatureExtract.cpp: 67";
+		rLen = 0;
+		rLoc = 1700;
+		rType = 0;
+		vrLen = 1310;
+		vrLoc = 1101;
+	};
+	3B6AC7B312D1BE8D00B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
+		name = "kltFeatureExtract.cl: 48";
+		rLen = 0;
+		rLoc = 1919;
+		rType = 0;
+		vrLen = 1217;
+		vrLoc = 532;
+	};
+	3B6AC7B412D1BE8D00B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B338D1A12C9569B0024212D /* cl.hpp */;
+		rLen = 0;
+		rLoc = 2358;
+		rType = 1;
+	};
+	3B6AC7B512D1BE8D00B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B338D1A12C9569B0024212D /* cl.hpp */;
+		name = "cl.hpp: 2359";
+		rLen = 0;
+		rLoc = 65387;
+		rType = 0;
+		vrLen = 1231;
+		vrLoc = 64617;
+	};
+	3B6AC7B812D1BEA600B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B338D1A12C9569B0024212D /* cl.hpp */;
+		name = "cl.hpp: 2359";
+		rLen = 0;
+		rLoc = 65387;
+		rType = 0;
+		vrLen = 660;
+		vrLoc = 65035;
+	};
+	3B6AC7B912D1BEA600B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
+		name = "kltFeatureExtract.cl: 48";
+		rLen = 0;
+		rLoc = 1919;
+		rType = 0;
+		vrLen = 788;
+		vrLoc = 961;
+	};
+	3B6AC7BA12D1BEA600B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
+		name = "kltFeatureExtract.cl: 48";
+		rLen = 0;
+		rLoc = 1918;
+		rType = 0;
+		vrLen = 736;
+		vrLoc = 1015;
+	};
+	3B6AC7BB12D1BEAF00B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
+		name = "kltFeatureExtract.cl: 48";
+		rLen = 0;
+		rLoc = 1918;
+		rType = 0;
+		vrLen = 1219;
+		vrLoc = 532;
+	};
+	3B6AC7BC12D1BEAF00B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B338D1A12C9569B0024212D /* cl.hpp */;
+		rLen = 0;
+		rLoc = 2358;
+		rType = 1;
+	};
+	3B6AC7BD12D1BEAF00B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B338D1A12C9569B0024212D /* cl.hpp */;
+		name = "cl.hpp: 2359";
+		rLen = 0;
+		rLoc = 65387;
+		rType = 0;
+		vrLen = 1231;
+		vrLoc = 64617;
+	};
+	3B6AC7C012D1BED800B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B338D1A12C9569B0024212D /* cl.hpp */;
+		name = "cl.hpp: 2359";
+		rLen = 0;
+		rLoc = 65387;
+		rType = 0;
+		vrLen = 743;
+		vrLoc = 65045;
+	};
+	3B6AC7C112D1BED800B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
+		name = "kltFeatureExtract.cl: 48";
+		rLen = 0;
+		rLoc = 1918;
+		rType = 0;
+		vrLen = 848;
+		vrLoc = 903;
+	};
+	3B6AC7C212D1BED800B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
+		name = "kltFeatureExtract.cl: 48";
+		rLen = 0;
+		rLoc = 1918;
+		rType = 0;
+		vrLen = 807;
+		vrLoc = 961;
+	};
+	3B6AC7C312D1BEE300B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
+		name = "kltFeatureExtract.cl: 48";
+		rLen = 0;
+		rLoc = 1918;
+		rType = 0;
+		vrLen = 1236;
+		vrLoc = 532;
+	};
+	3B6AC7C412D1BEE300B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B338D1A12C9569B0024212D /* cl.hpp */;
+		rLen = 0;
+		rLoc = 2358;
+		rType = 1;
+	};
+	3B6AC7C512D1BEE300B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B338D1A12C9569B0024212D /* cl.hpp */;
+		name = "cl.hpp: 2359";
+		rLen = 0;
+		rLoc = 65387;
+		rType = 0;
+		vrLen = 1231;
+		vrLoc = 64617;
+	};
+	3B6AC7C812D1BEFE00B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B338D1A12C9569B0024212D /* cl.hpp */;
+		name = "cl.hpp: 2359";
+		rLen = 0;
+		rLoc = 65387;
+		rType = 0;
+		vrLen = 795;
+		vrLoc = 68795;
+	};
+	3B6AC7C912D1BEFE00B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
+		name = "kltFeatureExtract.cl: 48";
+		rLen = 0;
+		rLoc = 1918;
+		rType = 0;
+		vrLen = 807;
+		vrLoc = 961;
+	};
+	3B6AC7CA12D1BEFE00B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
+		name = "kltFeatureExtract.cl: 48";
+		rLen = 0;
+		rLoc = 1918;
+		rType = 0;
+		vrLen = 741;
+		vrLoc = 1015;
+	};
+	3B6AC7CB12D1BF0500B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
+		name = "kltFeatureExtract.cl: 48";
+		rLen = 0;
+		rLoc = 1918;
+		rType = 0;
+		vrLen = 1224;
+		vrLoc = 532;
+	};
+	3B6AC7CC12D1BF0500B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B338D1A12C9569B0024212D /* cl.hpp */;
+		rLen = 0;
+		rLoc = 2358;
+		rType = 1;
+	};
+	3B6AC7CD12D1BF0500B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B338D1A12C9569B0024212D /* cl.hpp */;
+		name = "cl.hpp: 2359";
+		rLen = 0;
+		rLoc = 65387;
+		rType = 0;
+		vrLen = 1231;
+		vrLoc = 64617;
+	};
+	3B6AC7D012D1BF1400B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B338D1A12C9569B0024212D /* cl.hpp */;
+		name = "cl.hpp: 2359";
+		rLen = 0;
+		rLoc = 65387;
+		rType = 0;
+		vrLen = 660;
+		vrLoc = 65035;
+	};
+	3B6AC7D112D1BF1400B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
+		name = "kltFeatureExtract.cl: 48";
+		rLen = 0;
+		rLoc = 1918;
+		rType = 0;
+		vrLen = 795;
+		vrLoc = 961;
+	};
+	3B6AC7D212D1BF1400B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
+		name = "kltFeatureExtract.cl: 46";
+		rLen = 0;
+		rLoc = 1879;
+		rType = 0;
+		vrLen = 742;
+		vrLoc = 1015;
+	};
+	3B6AC7D512D1BF2D00B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
+		name = "kltFeatureExtract.cl: 48";
+		rLen = 0;
+		rLoc = 1919;
+		rType = 0;
+		vrLen = 1237;
+		vrLoc = 532;
+	};
+	3B6AC7D612D1BF2D00B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B338D1A12C9569B0024212D /* cl.hpp */;
+		rLen = 0;
+		rLoc = 2358;
+		rType = 1;
+	};
+	3B6AC7D712D1BF2D00B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B338D1A12C9569B0024212D /* cl.hpp */;
+		name = "cl.hpp: 2359";
+		rLen = 0;
+		rLoc = 65387;
+		rType = 0;
+		vrLen = 1231;
+		vrLoc = 64617;
+	};
+	3B6AC7DA12D1BF4500B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B338D1A12C9569B0024212D /* cl.hpp */;
+		name = "cl.hpp: 2359";
+		rLen = 0;
+		rLoc = 65387;
+		rType = 0;
+		vrLen = 743;
+		vrLoc = 65045;
+	};
+	3B6AC7DB12D1BF4500B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
+		name = "kltFeatureExtract.cl: 46";
+		rLen = 0;
+		rLoc = 1879;
+		rType = 0;
+		vrLen = 866;
+		vrLoc = 903;
+	};
+	3B6AC7DC12D1BF4500B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
+		name = "kltFeatureExtract.cl: 48";
+		rLen = 0;
+		rLoc = 1918;
+		rType = 0;
+		vrLen = 742;
+		vrLoc = 1015;
+	};
+	3B6AC7DD12D1BF4F00B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B338D1A12C9569B0024212D /* cl.hpp */;
+		name = "cl.hpp: 2359";
+		rLen = 0;
+		rLoc = 65387;
+		rType = 0;
+		vrLen = 1231;
+		vrLoc = 64617;
+	};
+	3B6AC7DE12D1BF4F00B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
+		name = "kltFeatureExtract.cl: 48";
+		rLen = 0;
+		rLoc = 1918;
+		rType = 0;
+		vrLen = 1225;
+		vrLoc = 532;
+	};
+	3B6AC7DF12D1BF5300B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
+		name = "kltFeatureExtract.cl: 48";
+		rLen = 0;
+		rLoc = 1918;
+		rType = 0;
+		vrLen = 851;
+		vrLoc = 906;
+	};
+	3B6AC7E212D1C08700B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
+		name = "kltFeatureExtract.cl: 38";
+		rLen = 0;
+		rLoc = 1331;
+		rType = 0;
+		vrLen = 697;
+		vrLoc = 806;
+	};
+	3B6AC7E512D1C0A600B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
+		name = "kltFeatureExtract.cl: 39";
+		rLen = 0;
+		rLoc = 1288;
+		rType = 0;
+		vrLen = 879;
+		vrLoc = 824;
+	};
+	3B6AC7EA12D1C43700B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
+		name = "kltFeatureExtract.cl: 63";
+		rLen = 0;
+		rLoc = 1939;
+		rType = 0;
+		vrLen = 1128;
+		vrLoc = 1015;
+	};
+	3B6AC7EB12D1C43700B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B338D1A12C9569B0024212D /* cl.hpp */;
+		rLen = 0;
+		rLoc = 2358;
+		rType = 1;
+	};
+	3B6AC7EC12D1C43700B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B338D1A12C9569B0024212D /* cl.hpp */;
+		name = "cl.hpp: 2359";
+		rLen = 0;
+		rLoc = 65387;
+		rType = 0;
+		vrLen = 1231;
+		vrLoc = 64617;
+	};
+	3B6AC7EF12D1C44C00B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B338D1A12C9569B0024212D /* cl.hpp */;
+		name = "cl.hpp: 2359";
+		rLen = 0;
+		rLoc = 65387;
+		rType = 0;
+		vrLen = 813;
+		vrLoc = 66370;
+	};
+	3B6AC7F012D1C44C00B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
+		name = "kltFeatureExtract.cl: 42";
+		rLen = 0;
+		rLoc = 1331;
+		rType = 0;
+		vrLen = 705;
+		vrLoc = 961;
+	};
+	3B6AC7F112D1C44C00B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
+		name = "kltFeatureExtract.cl: 64";
+		rLen = 0;
+		rLoc = 1961;
+		rType = 0;
+		vrLen = 710;
+		vrLoc = 1439;
+	};
+	3B6AC7F212D1C45400B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
+		name = "kltFeatureExtract.cl: 64";
+		rLen = 0;
+		rLoc = 1961;
+		rType = 0;
+		vrLen = 710;
+		vrLoc = 1439;
+	};
+	3B6AC7F412D1C47400B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
+		name = "kltFeatureExtract.cl: 64";
+		rLen = 0;
+		rLoc = 1961;
+		rType = 0;
+		vrLen = 1093;
+		vrLoc = 1056;
+	};
+	3B6AC7F512D1C47400B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B338D1A12C9569B0024212D /* cl.hpp */;
+		rLen = 0;
+		rLoc = 2358;
+		rType = 1;
+	};
+	3B6AC7F612D1C47400B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B338D1A12C9569B0024212D /* cl.hpp */;
+		name = "cl.hpp: 2359";
+		rLen = 0;
+		rLoc = 65387;
+		rType = 0;
+		vrLen = 1231;
+		vrLoc = 64617;
+	};
+	3B6AC7F912D1C48600B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B338D1A12C9569B0024212D /* cl.hpp */;
+		name = "cl.hpp: 2359";
+		rLen = 0;
+		rLoc = 65387;
+		rType = 0;
+		vrLen = 743;
+		vrLoc = 65045;
+	};
+	3B6AC7FA12D1C48600B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
+		name = "kltFeatureExtract.cl: 64";
+		rLen = 0;
+		rLoc = 1961;
+		rType = 0;
+		vrLen = 806;
+		vrLoc = 1343;
+	};
+	3B6AC7FB12D1C48600B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
+		name = "kltFeatureExtract.cl: 64";
+		rLen = 0;
+		rLoc = 1962;
+		rType = 0;
+		vrLen = 725;
+		vrLoc = 1426;
+	};
+	3B6AC7FC12D1C49800B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
+		name = "kltFeatureExtract.cl: 64";
+		rLen = 0;
+		rLoc = 1962;
+		rType = 0;
+		vrLen = 776;
+		vrLoc = 1377;
+	};
+	3B6AC80112D1C60100B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
+		name = "kltFeatureExtract.cl: 64";
+		rLen = 0;
+		rLoc = 1962;
+		rType = 0;
+		vrLen = 862;
+		vrLoc = 1208;
+	};
+	3B6AC80412D1C63C00B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
+		name = "kltFeatureExtract.cl: 61";
+		rLen = 0;
+		rLoc = 1962;
+		rType = 0;
+		vrLen = 889;
+		vrLoc = 1172;
+	};
+	3B6AC80712D1C67E00B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
+		name = "kltFeatureExtract.cl: 60";
+		rLen = 0;
+		rLoc = 1962;
+		rType = 0;
+		vrLen = 910;
+		vrLoc = 1015;
+	};
+	3B6AC80A12D1C6AC00B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
+		name = "kltFeatureExtract.cl: 61";
+		rLen = 0;
+		rLoc = 1962;
+		rType = 0;
+		vrLen = 843;
+		vrLoc = 1026;
+	};
+	3B6AC80B12D1C6DA00B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B338D1A12C9569B0024212D /* cl.hpp */;
+		name = "cl.hpp: 2359";
+		rLen = 0;
+		rLoc = 65387;
+		rType = 0;
+		vrLen = 1231;
+		vrLoc = 64617;
+	};
+	3B6AC80C12D1C6DA00B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
+		name = "kltFeatureExtract.cl: 9";
+		rLen = 0;
+		rLoc = 445;
+		rType = 0;
+		vrLen = 1320;
+		vrLoc = 202;
+	};
+	3B6AC80F12D1C6E800B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
+		name = "kltFeatureExtract.cl: 9";
+		rLen = 0;
+		rLoc = 445;
+		rType = 0;
+		vrLen = 802;
+		vrLoc = 720;
+	};
+	3B6AC81012D1C6E800B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B6AC15112D12ED200B5A886 /* clKLTFeatureExtract.cpp */;
+		name = "clKLTFeatureExtract.cpp: 67";
+		rLen = 0;
+		rLoc = 1700;
+		rType = 0;
+		vrLen = 925;
+		vrLoc = 1232;
+	};
+	3B6AC81112D1C6E800B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B6AC15112D12ED200B5A886 /* clKLTFeatureExtract.cpp */;
+		name = "clKLTFeatureExtract.cpp: 165";
+		rLen = 0;
+		rLoc = 4731;
+		rType = 0;
+		vrLen = 715;
+		vrLoc = 4084;
+	};
+	3B6AC81212D1C6F300B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B6AC15112D12ED200B5A886 /* clKLTFeatureExtract.cpp */;
+		name = "clKLTFeatureExtract.cpp: 165";
+		rLen = 0;
+		rLoc = 4731;
+		rType = 0;
+		vrLen = 749;
+		vrLoc = 4050;
+	};
+	3B6AC81512D1C71800B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B6AC15112D12ED200B5A886 /* clKLTFeatureExtract.cpp */;
+		name = "clKLTFeatureExtract.cpp: 165";
+		rLen = 0;
+		rLoc = 4731;
+		rType = 0;
+		vrLen = 751;
+		vrLoc = 4050;
+	};
+	3B6AC81612D1C76B00B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
+		name = "kltFeatureExtract.cl: 9";
+		rLen = 0;
+		rLoc = 445;
+		rType = 0;
+		vrLen = 1320;
+		vrLoc = 202;
+	};
+	3B6AC81712D1C76B00B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B6AC15112D12ED200B5A886 /* clKLTFeatureExtract.cpp */;
+		name = "clKLTFeatureExtract.cpp: 165";
+		rLen = 0;
+		rLoc = 4731;
+		rType = 0;
+		vrLen = 1221;
+		vrLoc = 3580;
+	};
+	3B6AC81A12D1C7A100B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B6AC15112D12ED200B5A886 /* clKLTFeatureExtract.cpp */;
+		name = "clKLTFeatureExtract.cpp: 165";
+		rLen = 0;
+		rLoc = 4731;
+		rType = 0;
+		vrLen = 804;
+		vrLoc = 3997;
+	};
+	3B6AC81B12D1C7A100B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
+		name = "kltFeatureExtract.cl: 9";
+		rLen = 0;
+		rLoc = 445;
+		rType = 0;
+		vrLen = 802;
+		vrLoc = 720;
+	};
+	3B6AC81C12D1C7A100B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
+		name = "kltFeatureExtract.cl: 35";
+		rLen = 0;
+		rLoc = 1331;
+		rType = 0;
+		vrLen = 753;
+		vrLoc = 758;
+	};
+	3B6AC81D12D1C7AF00B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
+		name = "kltFeatureExtract.cl: 35";
+		rLen = 0;
+		rLoc = 1331;
+		rType = 0;
+		vrLen = 801;
+		vrLoc = 758;
+	};
+	3B6AC82012D1C84000B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B6AC15112D12ED200B5A886 /* clKLTFeatureExtract.cpp */;
+		name = "clKLTFeatureExtract.cpp: 165";
+		rLen = 0;
+		rLoc = 4731;
+		rType = 0;
+		vrLen = 1221;
+		vrLoc = 3580;
+	};
+	3B6AC82112D1C84000B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
+		name = "kltFeatureExtract.cl: 63";
+		rLen = 0;
+		rLoc = 2218;
+		rType = 0;
+		vrLen = 1246;
+		vrLoc = 981;
+	};
+	3B6AC82212D1C84000B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B338D1A12C9569B0024212D /* cl.hpp */;
+		rLen = 0;
+		rLoc = 2358;
+		rType = 1;
+	};
+	3B6AC82312D1C84000B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B338D1A12C9569B0024212D /* cl.hpp */;
+		name = "cl.hpp: 2359";
+		rLen = 0;
+		rLoc = 65387;
+		rType = 0;
+		vrLen = 1231;
+		vrLoc = 64617;
+	};
+	3B6AC82412D1C84200B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
+		name = "kltFeatureExtract.cl: 35";
+		rLen = 0;
+		rLoc = 1331;
+		rType = 0;
+		vrLen = 849;
+		vrLoc = 760;
+	};
+	3B6AC82512D1C84200B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B338D1A12C9569B0024212D /* cl.hpp */;
+		name = "cl.hpp: 2359";
+		rLen = 0;
+		rLoc = 65387;
+		rType = 0;
+		vrLen = 743;
+		vrLoc = 65045;
+	};
+	3B6AC82812D1C8C300B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B338D1A12C9569B0024212D /* cl.hpp */;
+		name = "cl.hpp: 2359";
+		rLen = 0;
+		rLoc = 65387;
+		rType = 0;
+		vrLen = 743;
+		vrLoc = 65045;
+	};
+	3B6AC82912D1C8C300B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B6AC15112D12ED200B5A886 /* clKLTFeatureExtract.cpp */;
+		name = "clKLTFeatureExtract.cpp: 165";
+		rLen = 0;
+		rLoc = 4731;
+		rType = 0;
+		vrLen = 744;
+		vrLoc = 3253;
+	};
+	3B6AC82A12D1C8C300B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
+		name = "main.cpp: 27";
+		rLen = 0;
+		rLoc = 860;
+		rType = 0;
+		vrLen = 896;
+		vrLoc = 204;
+	};
+	3B6AC82B12D1C8C300B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
+		name = "main.cpp: 10";
+		rLen = 0;
+		rLoc = 339;
+		rType = 0;
+		vrLen = 784;
+		vrLoc = 343;
+	};
+	3B6AC82C12D1C8CB00B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
+		name = "main.cpp: 10";
+		rLen = 0;
+		rLoc = 339;
+		rType = 0;
+		vrLen = 1197;
+		vrLoc = 0;
+	};
+	3B6AC82D12D1C8CB00B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B338D1A12C9569B0024212D /* cl.hpp */;
+		rLen = 0;
+		rLoc = 2358;
+		rType = 1;
+	};
+	3B6AC82E12D1C8CB00B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B338D1A12C9569B0024212D /* cl.hpp */;
+		name = "cl.hpp: 2359";
+		rLen = 0;
+		rLoc = 65387;
+		rType = 0;
+		vrLen = 1231;
+		vrLoc = 64617;
+	};
+	3B6AC83112D1C8DD00B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
+		name = "main.cpp: 10";
+		rLen = 0;
+		rLoc = 339;
+		rType = 0;
+		vrLen = 784;
+		vrLoc = 343;
+	};
+	3B6AC83212D1C8DD00B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B338D1A12C9569B0024212D /* cl.hpp */;
+		name = "cl.hpp: 2359";
+		rLen = 0;
+		rLoc = 65387;
+		rType = 0;
+		vrLen = 660;
+		vrLoc = 65035;
+	};
+	3B6AC83312D1C8DD00B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
+		name = "kltFeatureExtract.cl: 35";
+		rLen = 0;
+		rLoc = 1331;
+		rType = 0;
+		vrLen = 781;
+		vrLoc = 828;
+	};
+	3B6AC83412D1C8DD00B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
+		name = "kltFeatureExtract.cl: 60";
+		rLen = 0;
+		rLoc = 2097;
+		rType = 0;
+		vrLen = 758;
+		vrLoc = 1442;
+	};
+	3B6AC83512D1C8E100B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
+		name = "kltFeatureExtract.cl: 60";
+		rLen = 0;
+		rLoc = 2097;
+		rType = 0;
+		vrLen = 758;
+		vrLoc = 1442;
+	};
+	3B6AC83712D1C90F00B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B338D1A12C9569B0024212D /* cl.hpp */;
+		name = "cl.hpp: 2359";
+		rLen = 0;
+		rLoc = 65387;
+		rType = 0;
+		vrLen = 1231;
+		vrLoc = 64617;
+	};
+	3B6AC83812D1C90F00B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
+		name = "kltFeatureExtract.cl: 60";
+		rLen = 0;
+		rLoc = 2097;
+		rType = 0;
+		vrLen = 1222;
+		vrLoc = 978;
+	};
+	3B6AC83B12D1C96700B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B6AC15112D12ED200B5A886 /* clKLTFeatureExtract.cpp */;
+		name = "clKLTFeatureExtract.cpp: 165";
+		rLen = 0;
+		rLoc = 4731;
+		rType = 0;
+		vrLen = 735;
+		vrLoc = 3262;
+	};
+	3B6AC83C12D1C96700B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
+		name = "main.cpp: 33";
+		rLen = 0;
+		rLoc = 1018;
+		rType = 0;
+		vrLen = 619;
+		vrLoc = 623;
+	};
+	3B6AC83D12D1C96700B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
+		name = "kltFeatureExtract.cl: 60";
+		rLen = 0;
+		rLoc = 2097;
+		rType = 0;
+		vrLen = 868;
+		vrLoc = 1332;
+	};
+	3B6AC83E12D1C96700B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
+		name = "kltFeatureExtract.cl: 60";
+		rLen = 0;
+		rLoc = 2215;
+		rType = 0;
+		vrLen = 770;
+		vrLoc = 1442;
+	};
+	3B6AC83F12D1C96F00B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
+		name = "kltFeatureExtract.cl: 60";
+		rLen = 0;
+		rLoc = 2215;
+		rType = 0;
+		vrLen = 1234;
+		vrLoc = 978;
+	};
+	3B6AC84012D1C96F00B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B338D1A12C9569B0024212D /* cl.hpp */;
+		rLen = 0;
+		rLoc = 2358;
+		rType = 1;
+	};
+	3B6AC84112D1C96F00B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B338D1A12C9569B0024212D /* cl.hpp */;
+		name = "cl.hpp: 2359";
+		rLen = 0;
+		rLoc = 65387;
+		rType = 0;
+		vrLen = 1231;
+		vrLoc = 64617;
+	};
+	3B6AC84412D1C99700B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B338D1A12C9569B0024212D /* cl.hpp */;
+		name = "cl.hpp: 2359";
+		rLen = 0;
+		rLoc = 65387;
+		rType = 0;
+		vrLen = 660;
+		vrLoc = 65035;
+	};
+	3B6AC84512D1C99700B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
+		name = "kltFeatureExtract.cl: 60";
+		rLen = 0;
+		rLoc = 2215;
+		rType = 0;
+		vrLen = 877;
+		vrLoc = 1335;
+	};
+	3B6AC84612D1C99700B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
+		name = "kltFeatureExtract.cl: 60";
+		rLen = 0;
+		rLoc = 2216;
+		rType = 0;
+		vrLen = 772;
+		vrLoc = 1442;
+	};
+	3B6AC84712D1C9A500B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
+		name = "kltFeatureExtract.cl: 60";
+		rLen = 0;
+		rLoc = 2216;
+		rType = 0;
+		vrLen = 1236;
+		vrLoc = 978;
+	};
+	3B6AC84812D1C9A500B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B338D1A12C9569B0024212D /* cl.hpp */;
+		rLen = 0;
+		rLoc = 2358;
+		rType = 1;
+	};
+	3B6AC84912D1C9A500B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B338D1A12C9569B0024212D /* cl.hpp */;
+		name = "cl.hpp: 2359";
+		rLen = 0;
+		rLoc = 65387;
+		rType = 0;
+		vrLen = 1231;
+		vrLoc = 64617;
+	};
+	3B6AC84C12D1C9DF00B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B338D1A12C9569B0024212D /* cl.hpp */;
+		name = "cl.hpp: 2359";
+		rLen = 0;
+		rLoc = 65387;
+		rType = 0;
+		vrLen = 722;
+		vrLoc = 65035;
+	};
+	3B6AC84D12D1C9DF00B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3BFCFE3C12CAA7470018D111 /* cl2DConvolutionKernelSeparable.cpp */;
+		name = "cl2DConvolutionKernelSeparable.cpp: 114";
+		rLen = 258;
+		rLoc = 3183;
+		rType = 0;
+		vrLen = 801;
+		vrLoc = 1411;
+	};
+	3B6AC84E12D1C9DF00B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
+		name = "kltFeatureExtract.cl: 60";
+		rLen = 0;
+		rLoc = 2216;
+		rType = 0;
+		vrLen = 880;
+		vrLoc = 1334;
+	};
+	3B6AC84F12D1C9DF00B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
+		name = "kltFeatureExtract.cl: 60";
+		rLen = 0;
+		rLoc = 2213;
+		rType = 0;
+		vrLen = 878;
+		vrLoc = 1335;
+	};
+	3B6AC85212D1CA0900B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
+		name = "kltFeatureExtract.cl: 60";
+		rLen = 0;
+		rLoc = 2213;
+		rType = 0;
+		vrLen = 1235;
+		vrLoc = 978;
+	};
+	3B6AC85312D1CA0900B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B338D1A12C9569B0024212D /* cl.hpp */;
+		rLen = 0;
+		rLoc = 2358;
+		rType = 1;
+	};
+	3B6AC85412D1CA0900B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B338D1A12C9569B0024212D /* cl.hpp */;
+		name = "cl.hpp: 2359";
+		rLen = 0;
+		rLoc = 65387;
+		rType = 0;
+		vrLen = 1309;
+		vrLoc = 66835;
+	};
+	3B6AC85712D1CA1400B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B338D1A12C9569B0024212D /* cl.hpp */;
+		name = "cl.hpp: 2359";
+		rLen = 0;
+		rLoc = 65387;
+		rType = 0;
+		vrLen = 996;
+		vrLoc = 69555;
+	};
+	3B6AC85812D1CA1400B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
+		name = "kltFeatureExtract.cl: 60";
+		rLen = 0;
+		rLoc = 2213;
+		rType = 0;
+		vrLen = 881;
+		vrLoc = 1332;
+	};
+	3B6AC85912D1CA1400B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
+		name = "kltFeatureExtract.cl: 60";
+		rLen = 0;
+		rLoc = 2174;
+		rType = 0;
+		vrLen = 880;
+		vrLoc = 1335;
+	};
+	3B6AC85A12D1CA1D00B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
+		name = "kltFeatureExtract.cl: 60";
+		rLen = 0;
+		rLoc = 2174;
+		rType = 0;
+		vrLen = 1237;
+		vrLoc = 978;
+	};
+	3B6AC85B12D1CA1D00B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B338D1A12C9569B0024212D /* cl.hpp */;
+		rLen = 0;
+		rLoc = 2358;
+		rType = 1;
+	};
+	3B6AC85C12D1CA1D00B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B338D1A12C9569B0024212D /* cl.hpp */;
+		name = "cl.hpp: 2359";
+		rLen = 0;
+		rLoc = 65387;
+		rType = 0;
+		vrLen = 1182;
+		vrLoc = 64731;
+	};
+	3B6AC85F12D1CA2800B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B338D1A12C9569B0024212D /* cl.hpp */;
+		name = "cl.hpp: 2359";
+		rLen = 0;
+		rLoc = 65387;
+		rType = 0;
+		vrLen = 913;
+		vrLoc = 74071;
+	};
+	3B6AC86012D1CA2800B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
+		name = "kltFeatureExtract.cl: 60";
+		rLen = 0;
+		rLoc = 2174;
+		rType = 0;
+		vrLen = 880;
+		vrLoc = 1335;
+	};
+	3B6AC86112D1CA2800B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
+		name = "kltFeatureExtract.cl: 60";
+		rLen = 0;
+		rLoc = 2174;
+		rType = 0;
+		vrLen = 773;
+		vrLoc = 1442;
+	};
+	3B6AC86212D1CA2F00B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B338D1A12C9569B0024212D /* cl.hpp */;
+		name = "cl.hpp: 2359";
+		rLen = 0;
+		rLoc = 65387;
+		rType = 0;
+		vrLen = 1182;
+		vrLoc = 64731;
+	};
+	3B6AC86312D1CA2F00B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
+		name = "kltFeatureExtract.cl: 60";
+		rLen = 0;
+		rLoc = 2174;
+		rType = 0;
+		vrLen = 1237;
+		vrLoc = 978;
+	};
+	3B6AC86612D1CA5100B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
+		name = "kltFeatureExtract.cl: 60";
+		rLen = 0;
+		rLoc = 2174;
+		rType = 0;
+		vrLen = 771;
+		vrLoc = 1442;
+	};
+	3B6AC86712D1CA5D00B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
+		name = "kltFeatureExtract.cl: 60";
+		rLen = 0;
+		rLoc = 2174;
+		rType = 0;
+		vrLen = 1235;
+		vrLoc = 978;
+	};
+	3B6AC86812D1CA5D00B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B338D1A12C9569B0024212D /* cl.hpp */;
+		rLen = 0;
+		rLoc = 2358;
+		rType = 1;
+	};
+	3B6AC86912D1CA5D00B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B338D1A12C9569B0024212D /* cl.hpp */;
+		name = "cl.hpp: 2359";
+		rLen = 0;
+		rLoc = 65387;
+		rType = 0;
+		vrLen = 1182;
+		vrLoc = 64731;
+	};
+	3B6AC86C12D1CA6900B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B338D1A12C9569B0024212D /* cl.hpp */;
+		name = "cl.hpp: 2359";
+		rLen = 0;
+		rLoc = 65387;
+		rType = 0;
+		vrLen = 940;
+		vrLoc = 64653;
+	};
+	3B6AC86D12D1CA6900B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
+		name = "kltFeatureExtract.cl: 60";
+		rLen = 0;
+		rLoc = 2174;
+		rType = 0;
+		vrLen = 881;
+		vrLoc = 1332;
+	};
+	3B6AC86E12D1CA6900B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
+		name = "kltFeatureExtract.cl: 60";
+		rLen = 0;
+		rLoc = 2213;
+		rType = 0;
+		vrLen = 882;
+		vrLoc = 1335;
+	};
+	3B6AC86F12D1CA7700B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
+		name = "kltFeatureExtract.cl: 60";
+		rLen = 0;
+		rLoc = 2213;
+		rType = 0;
+		vrLen = 1239;
+		vrLoc = 978;
+	};
+	3B6AC87012D1CA7700B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B338D1A12C9569B0024212D /* cl.hpp */;
+		rLen = 0;
+		rLoc = 2358;
+		rType = 1;
+	};
+	3B6AC87112D1CA7700B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B338D1A12C9569B0024212D /* cl.hpp */;
+		name = "cl.hpp: 2359";
+		rLen = 0;
+		rLoc = 65387;
+		rType = 0;
+		vrLen = 1182;
+		vrLoc = 64731;
+	};
+	3B6AC87412D1CA8100B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B338D1A12C9569B0024212D /* cl.hpp */;
+		name = "cl.hpp: 2359";
+		rLen = 0;
+		rLoc = 65387;
+		rType = 0;
+		vrLen = 743;
+		vrLoc = 65045;
+	};
+	3B6AC87512D1CA8100B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
+		name = "kltFeatureExtract.cl: 60";
+		rLen = 0;
+		rLoc = 2213;
+		rType = 0;
+		vrLen = 885;
+		vrLoc = 1332;
+	};
+	3B6AC87612D1CA8100B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
+		name = "kltFeatureExtract.cl: 60";
+		rLen = 0;
+		rLoc = 2174;
+		rType = 0;
+		vrLen = 886;
+		vrLoc = 1335;
+	};
+	3B6AC87712D1CA8900B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
+		name = "kltFeatureExtract.cl: 60";
+		rLen = 0;
+		rLoc = 2174;
+		rType = 0;
+		vrLen = 887;
+		vrLoc = 1334;
+	};
+	3B6AC87812D1CAAC00B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B338D1A12C9569B0024212D /* cl.hpp */;
+		name = "cl.hpp: 2359";
+		rLen = 0;
+		rLoc = 65387;
+		rType = 0;
+		vrLen = 1182;
+		vrLoc = 64731;
+	};
+	3B6AC87912D1CAAC00B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
+		name = "kltFeatureExtract.cl: 60";
+		rLen = 0;
+		rLoc = 2174;
+		rType = 0;
+		vrLen = 1243;
+		vrLoc = 978;
+	};
+	3B6AC87C12D1CABF00B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B6AC16B12D1311700B5A886 /* kltFeatureExtract.cl */;
+		name = "kltFeatureExtract.cl: 60";
+		rLen = 0;
+		rLoc = 2174;
+		rType = 0;
+		vrLen = 887;
+		vrLoc = 1334;
+	};
+	3B6AC87D12D1CABF00B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B6AC15112D12ED200B5A886 /* clKLTFeatureExtract.cpp */;
+		name = "clKLTFeatureExtract.cpp: 165";
+		rLen = 0;
+		rLoc = 4731;
+		rType = 0;
+		vrLen = 735;
+		vrLoc = 3262;
+	};
+	3B6AC87E12D1CABF00B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B6AC15112D12ED200B5A886 /* clKLTFeatureExtract.cpp */;
+		name = "clKLTFeatureExtract.cpp: 165";
+		rLen = 0;
+		rLoc = 4731;
+		rType = 0;
+		vrLen = 715;
+		vrLoc = 4084;
+	};
+	3B6AC87F12D1CAC600B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B6AC15112D12ED200B5A886 /* clKLTFeatureExtract.cpp */;
+		name = "clKLTFeatureExtract.cpp: 165";
+		rLen = 0;
+		rLoc = 4731;
+		rType = 0;
+		vrLen = 749;
+		vrLoc = 4050;
+	};
+	3B6AC88212D1CAE600B5A886 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B6AC15112D12ED200B5A886 /* clKLTFeatureExtract.cpp */;
+		name = "clKLTFeatureExtract.cpp: 165";
+		rLen = 0;
+		rLoc = 4731;
+		rType = 0;
+		vrLen = 749;
+		vrLoc = 4050;
 	};
 	3BFCFE3B12CAA7470018D111 /* cl2DConvolutionKernelSeparable.h */ = {
 		uiCtxt = {
@@ -3840,9 +5808,9 @@
 	};
 	3BFCFE3C12CAA7470018D111 /* cl2DConvolutionKernelSeparable.cpp */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {910, 1794}}";
+			sepNavIntBoundsRect = "{{0, 0}, {910, 1664}}";
 			sepNavSelRange = "{3183, 258}";
-			sepNavVisRange = "{3027, 469}";
+			sepNavVisRange = "{1411, 801}";
 			sepNavWindowFrame = "{{15, 215}, {750, 558}}";
 		};
 	};
