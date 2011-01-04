@@ -29,12 +29,20 @@ int main (int argc, char * const argv[]) {
 	kltF.getResults(h_Output);
 	cout<<"dumping results"<<endl;
 
-	std::ofstream convo("/Users/clusty/Documents/code/git/vision/clTrack/dx.pgm");
+	std::ofstream convo("/Users/clusty/Documents/code/git/vision/clTrack/features.pgm");
 	
 	
 	convo<<"P2\n#blahblah\n"<<imageW<<" "<<imageH<<std::endl<<"255\n";
+	cl_float min=999999,max=-99999;
 	for (int i=0;i<imageH * imageW; ++i) {
-		convo<<static_cast<int>(h_Output[4*i])<<" ";
+		if (h_Output[4*i]>max)
+			max= h_Output[4*i];
+		if (h_Output[4*i]<min)
+			min= h_Output[4*i];
+	}
+	
+	for (int i=0;i<imageH * imageW; ++i) {
+		convo<<int(255*(h_Output[4*i]-min)/(max-min))<<" ";
 	}
 	
 	convo.close();

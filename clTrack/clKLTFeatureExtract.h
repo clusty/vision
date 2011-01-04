@@ -21,7 +21,7 @@ private:
 	void initialize();
 		
 	std::vector<cl::Kernel> _kernels;
-	cl::Image2D d_Input, d_OutputDx, d_OutputDy, d_Cornerness;
+	cl::Image2D d_Input, d_OutputDx, d_OutputDy/*, d_Cornerness*/;
 	cl::Buffer d_KernelDerivative;
 	cl_int _patchSize;
 	unsigned _imageW, _imageH;

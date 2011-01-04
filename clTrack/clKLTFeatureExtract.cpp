@@ -97,7 +97,7 @@ void clKLTFeatureExtract::bindData(unsigned imageW, unsigned imageH,cl_float *h_
 		d_KernelDerivative = cl::Buffer(env->getContext(), CL_MEM_READ_ONLY | CL_MEM_COPY_HOST_PTR, 
 								   kSize * sizeof(cl_float), kernelDerivative, NULL);
 	
-		d_Input = cl::Image2D(env->getContext(), CL_MEM_READ_ONLY | CL_MEM_COPY_HOST_PTR, 
+		d_Input = cl::Image2D(env->getContext(), CL_MEM_READ_WRITE | CL_MEM_COPY_HOST_PTR, 
 							  cl::ImageFormat(CL_RGBA, CL_FLOAT),_imageW, _imageH, 0, h_Input);
 		
 		d_OutputDx = cl::Image2D(env->getContext(), CL_MEM_READ_WRITE | CL_MEM_ALLOC_HOST_PTR, 
@@ -105,6 +105,9 @@ void clKLTFeatureExtract::bindData(unsigned imageW, unsigned imageH,cl_float *h_
 		
 		d_OutputDy = cl::Image2D(env->getContext(), CL_MEM_READ_WRITE | CL_MEM_ALLOC_HOST_PTR, 
 							  cl::ImageFormat(CL_RGBA, CL_FLOAT),_imageW, _imageH, 0, NULL);
+		
+	/*	d_Cornerness = cl::Image2D(env->getContext(), CL_MEM_READ_WRITE | CL_MEM_ALLOC_HOST_PTR, 
+							  cl::ImageFormat(CL_RGBA, CL_FLOAT),_imageW, _imageH, 0, NULL);*/
 	}
 	
 	catch (cl::Error err) {
@@ -126,6 +129,10 @@ void clKLTFeatureExtract::run()
 		_kernels[1].setArg(0, d_Input);
 		_kernels[1].setArg(1, d_KernelDerivative);
 		_kernels[1].setArg(2, d_OutputDy);
+		
+		_kernels[2].setArg(0, d_OutputDx);
+		_kernels[2].setArg(1, d_OutputDy);
+		_kernels[2].setArg(2, d_Input);
 	
 		cl::CommandQueue queue = clEnvironment::getInstance()->getQueue();
 	
@@ -138,11 +145,10 @@ void clKLTFeatureExtract::run()
 							   cl::NDRange(_imageW, _imageH), 
 							   cl::NDRange(_blockDim[0],_blockDim[1]));
 		
-		clEnvironment *env = clEnvironment::getInstance();
-		//allocate the PseudoHessian
+		queue.enqueueNDRangeKernel(_kernels[2], cl::NullRange, 
+								cl::NDRange(_imageW, _imageH), 
+								cl::NDRange(_blockDim[0],_blockDim[1]));
 		
-		d_Cornerness = cl::Image2D(env->getContext(), CL_MEM_READ_WRITE | CL_MEM_ALLOC_HOST_PTR, 
-								 cl::ImageFormat(CL_RGBA, CL_FLOAT),_imageW, _imageH, 0, NULL);
 		queue.enqueueBarrier();
 		
 	}
@@ -162,6 +168,5 @@ void clKLTFeatureExtract::getResults(cl_float *h_Output)
 	origin[0] = 0; origin[1] = 0; origin[2] = 0; 
 	chunk[0] = _imageW; chunk[1] = _imageH; chunk[2] =1;
 	cl::CommandQueue queue = clEnvironment::getInstance()->getQueue();
-	queue.enqueueReadImage(d_OutputDx,CL_TRUE, origin, chunk,0, 0, h_Output);
-	queue.enqueueBarrier();
+	queue.enqueueReadImage(d_Input,CL_TRUE, origin, chunk,0, 0, h_Output);
 }
