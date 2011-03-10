@@ -23,8 +23,7 @@ int main (int argc, char * const argv[]) {
 	imag.close();
 	
 	cout<<"running"<<endl;
-	cl_int patchSize = 15;
-	kltF.bindData(imageW, imageH, h_Input, patchSize);
+	kltF.bindData(imageW, imageH, h_Input);
 	kltF.run();
 	kltF.getResults(h_Output);
 	cout<<"dumping results"<<endl;

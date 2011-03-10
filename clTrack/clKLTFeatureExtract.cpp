@@ -87,11 +87,10 @@ void clKLTFeatureExtract::initialize()
 	}
 }
 
-void clKLTFeatureExtract::bindData(unsigned imageW, unsigned imageH,cl_float *h_Input, cl_int windowSize)
+void clKLTFeatureExtract::bindData(unsigned imageW, unsigned imageH,cl_float *h_Input)
 {
 	_imageW = imageW;
 	_imageH = imageH;
-	_patchSize = windowSize;
 	clEnvironment *env = clEnvironment::getInstance();
 	try{
 		d_KernelDerivative = cl::Buffer(env->getContext(), CL_MEM_READ_ONLY | CL_MEM_COPY_HOST_PTR, 

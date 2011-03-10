@@ -11,9 +11,9 @@
 #include "cl.hpp"
 class clKLTFeatureExtract {
 public:	
-	clKLTFeatureExtract(cl_int windowSize = 10);
+	clKLTFeatureExtract(cl_int windowSize = 5);
 	~clKLTFeatureExtract();
-	void bindData(unsigned imageW, unsigned imageH, cl_float *image, cl_int windowSize);
+	void bindData(unsigned imageW, unsigned imageH, cl_float *image);
 	void run();
 	void getResults(cl_float *h_Output);
 private:
