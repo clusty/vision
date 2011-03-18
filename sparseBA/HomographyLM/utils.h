@@ -17,6 +17,14 @@
  namespace ublas = boost::numeric::ublas;
 
 
+typedef double real_t; 
+typedef boost::numeric::ublas::matrix<real_t, 
+        boost::numeric::ublas::column_major> mat;
+      
+typedef boost::numeric::ublas::matrix_range<mat> mrange;
+typedef boost::numeric::ublas::matrix_row<mat> mrow;
+typedef boost::numeric::ublas::vector<real_t> vec;
+
 ///////////////////////////////
 // vectors
 

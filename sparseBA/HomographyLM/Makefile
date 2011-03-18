@@ -1,2 +1,3 @@
 all:
-	g++ -g -I/opt/local/include/ -I. -L/opt/local/lib/ -llapack -latlas homographySVD.cpp -o homo
+	colorcc g++ -I/DLlocal/lazarv/git/boost/numeric_bindings -I/DLlocal/lazarv/bins/include -I. -llapack fundamentalLinear.cpp -o fundamentalLinear
+#	colorcc g++ -g -I/DLlocal/lazarv/git/boost/numeric_bindings -I/DLlocal/lazarv/bins/include -I. -L/opt/local/lib/ -llapack fundamentalMatrix.cpp homographySVD.cpp -o homo

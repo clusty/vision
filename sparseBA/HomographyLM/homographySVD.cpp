@@ -1,13 +1,12 @@
-#include <boost/numeric/bindings/ublas/matrix.hpp>
-#include <boost/numeric/bindings/ublas/matrix_proxy.hpp>
-#include <boost/numeric/ublas/matrix.hpp>
-#include <boost/numeric/ublas/matrix_proxy.hpp>
 #include <boost/numeric/bindings/ublas/vector.hpp>
-#include <boost/numeric/bindings/lapack/driver/gesdd.hpp>
+#include <boost/numeric/bindings/ublas/matrix.hpp>
+#include <boost/numeric/bindings/lapack/driver/gesdd.hpp>//svn
 #include <boost/numeric/ublas/io.hpp>
 #include "utils.h"//for prints
 #include <string>
 #include <fstream>
+#include <fundamentalMatrix.h>
+#include <ransac.hpp>
 using namespace boost::numeric::bindings;
 using namespace boost::numeric::ublas;
 using std::size_t; 
@@ -28,12 +27,12 @@ void loadData(string fname,  mat &data)
   ifstream ifile(fname.c_str());
   if (!ifile)
     cout<<"cannot read"<<endl;
-  int num;
-  ifile>>num;
-  data.resize(num, 4); //x1 y1 x2 y2
-  for (int i = 0; i< num; i++)
+  int num=0;
+  while (!ifile.eof())
   {
-    ifile>>data(i,0);ifile>>data(i,1);ifile>>data(i,2);ifile>>data(i,3);
+     data.resize(num+1,4, true);
+     ifile>>data(num,0);ifile>>data(num,1);ifile>>data(num,2);ifile>>data(num,3);
+     num++;
   }
   ifile.close();
 }
@@ -141,7 +140,7 @@ void buildLeastSqHomographyMatrix(mat &data, mat &h)
   for (int i=0;i<height;i+=3)
   {
     mrange hchunk(h, range(i,i+3), range(0,9));
-    mrow dchunk(data, floor(i/3));
+    mrow dchunk(data, static_cast<int>(floor(i/3)));
     homographyBlock(hchunk, dchunk);
   }
 }
@@ -196,6 +195,7 @@ bool solveLeastSqHomography(mat &data, mat &h)
    h = ublas::prod (t2i, mat (ublas::prod (h, t1))); 
   return true;
 }
+
 bool solveLeastSqFundamental(mat &data, mat &h)
 {
   mat dataS;//scaled data
@@ -497,16 +497,14 @@ void ransacFundamental(mat &data, mat &h)
 int main()
 {
    mat data;
-  mat h;
-  loadData("/Users/clusty/Desktop/f.csv",data);
-  ransacHomography(data, h);
-   //solveLeastSqHomography(data, h);
-/*
-  mat Fdata;
   mat f;
-  loadData("/Users/clusty/Desktop/f.csv",Fdata);
-  buildLeastSqHomographyMatrix(Fdata, f);
-  // solveLeastSqFundamental(Fdata, f);
-  //ransacFundamental(Fdata, f);
-*/
+  loadData("data/corr.01.03.txt",data);
+  //print_m(data, "data");
+   solveLeastSqFundamental(data, f);
+   ransacFundamental(data, f);
+   ///
+   fundamentalMatrix fund;//("data/corr.01.03.txt");
+ //  ransac<fund, data> rFund;
+
+   
 }
