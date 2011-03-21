@@ -1,5 +1,5 @@
-all: main.C optimFunction.C
-	g++ -Os -funroll-loops optimFunction.C main.C -o ScaledCGTest
+all: main.C
+	g++ -Os -funroll-loops  main.C -o ScaledCGTest -I/DLlocal/lazarv/bins/include 
 
 clean: 
 	rm *.o ScaledCGTest
