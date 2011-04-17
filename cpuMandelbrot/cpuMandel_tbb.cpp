@@ -70,8 +70,7 @@ int main()
    task_scheduler_init init;
    
   mandelCpu crunch(W, H);
-  affinity_partitioner partitioner;
-  parallel_for(blocked_range<int>(0,H), crunch, partitioner);
+  parallel_for(blocked_range<int>(0,H), crunch, auto_partitioner());
    ofstream out("mandel.pgm");
    out<<"P2\n#blahblah\n"<<W<<" "<<H<<std::endl<<MAX_ITER<<endl;
    for (int i=0;i<W*H;i++)
